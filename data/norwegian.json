@@ -1,0 +1,534 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "quizzes": [
+        {
+          "title": "Quiz A",
+          "level": 1,
+          "questions": [
+            {"q":"Hvordan sier man 'Good morning' på norsk?","type":"mc","options":["God morgen","God natt","Hei","Ha det"],"answer":"God morgen"},
+            {"q":"Velg riktig form: Jeg ___ i Oslo.","type":"mc","options":["bor","borer","bodde","borte"],"answer":"bor"},
+            {"q":"Oversett: 'I don't understand'","type":"text","answer":"Jeg forstår ikke"},
+            {"q":"Velg: Hva betyr 'takk'?","type":"mc","options":["Thank you","Please","Sorry","Hello"],"answer":"Thank you"},
+            {"q":"Oversett: 'See you later'","type":"text","answer":"Sees senere"},
+            {"q":"Velg riktig: Han ___ en bok.","type":"mc","options":["leser","lese","leste","leses"],"answer":"leser"},
+            {"q":"Oversett: 'I have two sisters'","type":"text","answer":"Jeg har to søstre"},
+            {"q":"Velg: Hva er tallet '5' på norsk?","type":"mc","options":["fem","fire","seks","sju"],"answer":"fem"},
+            {"q":"Oversett: 'Where is the bathroom?'","type":"text","answer":"Hvor er toalettet?"},
+            {"q":"Velg: Hvordan sier man 'Please' på norsk?","type":"mc","options":["Vær så snill","Takk","Unnskyld","Hei"],"answer":"Vær så snill"}
+          ]
+        },
+        {
+          "title": "Quiz B",
+          "level": 1,
+          "questions": [
+            {"q":"Oversett: 'We are going to the store'","type":"text","answer":"Vi skal til butikken"},
+            {"q":"Velg: Kan du ___ vinduet?","type":"mc","options":["åpne","åpner","åpning","åpent"],"answer":"åpne"},
+            {"q":"Oversett: 'I like Norwegian food'","type":"text","answer":"Jeg liker norsk mat"},
+            {"q":"Velg riktig: Hun ___ kaffe hver morgen.","type":"mc","options":["drikker","drikkerne","drakk","drikkeres"],"answer":"drikker"},
+            {"q":"Oversett: 'My name is Anna'","type":"text","answer":"Jeg heter Anna"},
+            {"q":"Velg: Hva betyr 'venn'?","type":"mc","options":["friend","enemy","house","work"],"answer":"friend"},
+            {"q":"Oversett: 'I live in a small house'","type":"text","answer":"Jeg bor i et lite hus"},
+            {"q":"Velg: Hvordan sier man 'Good night' på norsk?","type":"mc","options":["God natt","God morgen","God ettermiddag","Ha det"],"answer":"God natt"},
+            {"q":"Oversett: 'Do you speak English?'","type":"text","answer":"Snakker du engelsk?"},
+            {"q":"Velg: Hva er riktig artikkel: ___ eple (a/an)?","type":"mc","options":["et","en","ei","ingen"],"answer":"et"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 1,
+          "questions": [
+            {"q":"Oversett: 'I like Norwegian food'","type":"text","answer":"Jeg liker norsk mat"},
+            {"q":"Fullfør: ___ år er du?","type":"mc","options":["Hvor mange","Hvor mye","Hva","Hvem"],"answer":"Hvor mange"},
+            {"q":"Oversett: 'Excuse me'","type":"text","answer":"Unnskyld meg"},
+            {"q":"Velg: Hva betyr 'familie'?","type":"mc","options":["family","friend","city","work"],"answer":"family"},
+            {"q":"Oversett: 'I am hungry'","type":"text","answer":"Jeg er sulten"},
+            {"q":"Velg riktig: Vi ___ på skolen nå.","type":"mc","options":["er","var","blir","være"],"answer":"er"},
+            {"q":"Oversett: 'How old are you?'","type":"text","answer":"Hvor gammel er du?"},
+            {"q":"Velg: Hva er flertall av 'bok'?","type":"mc","options":["bøker","bok","boker","bokene"],"answer":"bøker"},
+            {"q":"Oversett: 'I need water'","type":"text","answer":"Jeg trenger vann"},
+            {"q":"Velg: Hvordan sier man 'Thank you very much' på norsk?","type":"mc","options":["Tusen takk","Bare hyggelig","Vær så god","Unnskyld"],"answer":"Tusen takk"}
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "quizzes": [
+        {
+          "title": "Quiz A",
+          "level": 2,
+          "questions": [
+            {"q":"Oversett: 'She needs help'","type":"text","answer":"Hun trenger hjelp"},
+            {"q":"Velg riktig form: Vi ___ norsk hver uke.","type":"mc","options":["øver","øve","øvet","øving"],"answer":"øver"},
+            {"q":"Oversett: 'I will call you tomorrow'","type":"text","answer":"Jeg ringer deg i morgen"},
+            {"q":"Velg: Hva betyr 'snill'?","type":"mc","options":["kind","loud","fast","angry"],"answer":"kind"},
+            {"q":"Oversett: 'He bought a new car'","type":"text","answer":"Han kjøpte en ny bil"},
+            {"q":"Velg riktig preposisjon: Boken ligger ___ bordet.","type":"mc","options":["på","i","under","ved"],"answer":"på"},
+            {"q":"Oversett: 'We saw a movie last night'","type":"text","answer":"Vi så en film i går kveld"},
+            {"q":"Velg: Hvordan sier man 'today' på norsk?","type":"mc","options":["i dag","i morgen","i går","nå"],"answer":"i dag"},
+            {"q":"Oversett: 'Can you help me with this?'","type":"text","answer":"Kan du hjelpe meg med dette?"},
+            {"q":"Velg riktig: Han ___ ikke til festen fordi han var syk.","type":"mc","options":["kom","kommer","komme","kommet"],"answer":"kom"}
+          ]
+        },
+        {
+          "title": "Quiz B",
+          "level": 2,
+          "questions": [
+            {"q":"Oversett: 'My parents work a lot'","type":"text","answer":"Foreldrene mine jobber mye"},
+            {"q":"Velg riktig form: Hun ___ kaffe nå.","type":"mc","options":["drikker","drakk","drikke","drikket"],"answer":"drikker"},
+            {"q":"Oversett: 'Where do you live?'","type":"text","answer":"Hvor bor du?"},
+            {"q":"Velg: Hva betyr 'snart'?","type":"mc","options":["soon","never","always","yesterday"],"answer":"soon"},
+            {"q":"Oversett: 'I have been to Oslo'","type":"text","answer":"Jeg har vært i Oslo"},
+            {"q":"Velg riktig: De ___ middag klokka seks.","type":"mc","options":["spiser","spiste","spist","spise"],"answer":"spiser"},
+            {"q":"Oversett: 'She doesn't like coffee'","type":"text","answer":"Hun liker ikke kaffe"},
+            {"q":"Velg: Hvordan spør du om prisen?","type":"mc","options":["Hvor mye koster det?","Hva heter du?","Hvor bor du?","Kan jeg få regningen?"],"answer":"Hvor mye koster det?"},
+            {"q":"Oversett: 'I need a ticket to Bergen'","type":"text","answer":"Jeg trenger en billett til Bergen"},
+            {"q":"Velg riktig: Vi ___ på kino i helgen.","type":"mc","options":["skal","må","kan","vil"],"answer":"skal"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 2,
+          "questions": [
+            {"q":"Velg riktig: De ___ hjemme i går.","type":"mc","options":["var","er","blir","vært"],"answer":"var"},
+            {"q":"Oversett: 'I would like a cup of tea'","type":"text","answer":"Jeg vil gjerne ha en kopp te"},
+            {"q":"Velg: Hva betyr 'alltid'?","type":"mc","options":["always","sometimes","never","rarely"],"answer":"always"},
+            {"q":"Oversett: 'The children are playing outside'","type":"text","answer":"Barna leker ute"},
+            {"q":"Velg riktig pronomen: ___ heter Maria.","type":"mc","options":["Hun","Han","Det","Vi"],"answer":"Hun"},
+            {"q":"Oversett: 'Do you want to come with us?'","type":"text","answer":"Vil du bli med oss?"},
+            {"q":"Velg: Hvordan sier man 'Monday' på norsk?","type":"mc","options":["mandag","tirsdag","onsdag","søndag"],"answer":"mandag"},
+            {"q":"Oversett: 'I lost my keys'","type":"text","answer":"Jeg mistet nøklene mine"},
+            {"q":"Velg riktig: Han har bodd her ___ fem år.","type":"mc","options":["i","på","til","for"],"answer":"i"},
+            {"q":"Oversett: 'Please speak more slowly'","type":"text","answer":"Vær så snill å snakke saktere"}
+          ]
+        }
+      ]
+    },
+    {
+  "level": 3,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 3,
+      "questions": [
+        {"q":"Oversett: 'I have to study today'","type":"text","answer":"Jeg må studere i dag"},
+        {"q":"Velg riktig preteritum: I går ___ jeg en lang tur.","type":"mc","options":["tok","tar","tatt","tarte"],"answer":"tok"},
+        {"q":"Oversett: 'She has already left'","type":"text","answer":"Hun har allerede dratt"},
+        {"q":"Velg: Hva betyr 'måtte' i denne setningen: 'Jeg måtte gå' ?","type":"mc","options":["had to","may","might","must"],"answer":"had to"},
+        {"q":"Oversett: 'We will have finished by noon'","type":"text","answer":"Vi vil være ferdige innen middagstid"},
+        {"q":"Velg riktig refleksivt pronomen: Han så ___ i speilet.","type":"mc","options":["seg","sin","ham","han"],"answer":"seg"},
+        {"q":"Oversett: 'They had already eaten when I arrived'","type":"text","answer":"De hadde allerede spist da jeg kom"},
+        {"q":"Velg riktig: Hun er ___ enn broren sin.","type":"mc","options":["eldre","eldre enn","mer gammel","gammel"],"answer":"eldre"},
+        {"q":"Oversett: 'I forgot to bring my passport'","type":"text","answer":"Jeg glemte å ta med passet mitt"},
+        {"q":"Velg riktig preposisjon: Bussen går ___ stasjonen klokka åtte.","type":"mc","options":["fra","til","på","ved"],"answer":"fra"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 3,
+      "questions": [
+        {"q":"Oversett: 'Where is the bus stop'","type":"text","answer":"Hvor er busstoppet"},
+        {"q":"Velg riktig perfektum: Han ___ (å skrive) et brev i dag.","type":"mc","options":["har skrevet","skrev","skrive","har skrive"],"answer":"har skrevet"},
+        {"q":"Oversett: 'I used to live in Bergen'","type":"text","answer":"Jeg bodde i Bergen før"},
+        {"q":"Velg: Hva uttrykker 'skal' i 'Jeg skal reise i morgen'?","type":"mc","options":["future plan","ability","obligation","permission"],"answer":"future plan"},
+        {"q":"Oversett: 'She didn't understand the question'","type":"text","answer":"Hun forsto ikke spørsmålet"},
+        {"q":"Velg riktig: Vi må vente ___ toget kommer.","type":"mc","options":["til","før","når","mens"],"answer":"til"},
+        {"q":"Oversett: 'He promised to call me'","type":"text","answer":"Han lovet å ringe meg"},
+        {"q":"Velg: Hva er korrekt ordstilling i et spørsmål?","type":"mc","options":["Verb før subjekt","Subjekt før verb","Objekt først","Adverb først"],"answer":"Verb før subjekt"},
+        {"q":"Oversett: 'I have never been to Trondheim'","type":"text","answer":"Jeg har aldri vært i Trondheim"},
+        {"q":"Velg riktig: Hun sa at hun ___ komme senere.","type":"mc","options":["ville","vil","være","kommer"],"answer":"ville"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 3,
+      "questions": [
+        {"q":"Velg riktig: Denne oppgaven er ___ enn den forrige.","type":"mc","options":["vanskeligere","mer vanskelig","vanskelig","mest vanskelig"],"answer":"vanskeligere"},
+        {"q":"Oversett: 'I bought it because it was cheap'","type":"text","answer":"Jeg kjøpte det fordi det var billig"},
+        {"q":"Velg riktig pronomen: Det er boka ___ jeg snakket om.","type":"mc","options":["som","hvem","hvilken","hvor"],"answer":"som"},
+        {"q":"Oversett: 'They will probably arrive late'","type":"text","answer":"De kommer sannsynligvis sent"},
+        {"q":"Velg: Hva betyr 'selv om' i denne setningen?","type":"mc","options":["although","because","so that","if"],"answer":"although"},
+        {"q":"Oversett: 'I should have told you earlier'","type":"text","answer":"Jeg burde ha fortalt deg tidligere"},
+        {"q":"Velg riktig: Han er vant ___ å jobbe sent.","type":"mc","options":["til","på","med","for"],"answer":"til"},
+        {"q":"Oversett: 'She asked whether I could help'","type":"text","answer":"Hun spurte om jeg kunne hjelpe"},
+        {"q":"Velg: Hvilken form er korrekt for indirekte tale?","type":"mc","options":["Han sa at han var trøtt.","Han sier at han var trøtt.","Han sier at han er trøtt.","Han sa at han er trøtt."],"answer":"Han sa at han var trøtt."},
+        {"q":"Oversett: 'If I had known, I would have come'","type":"text","answer":"Hvis jeg hadde visst det, ville jeg ha kommet"}
+      ]
+    }
+  ]
+},
+{
+  "level": 4,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 4,
+      "questions": [
+        {"q":"Oversett: 'I had already left when she arrived'","type":"text","answer":"Jeg hadde allerede dratt da hun kom"},
+        {"q":"Velg riktig: Hvis jeg ___ mer tid, ville jeg reist oftere.","type":"mc","options":["hadde","har","had","hade"],"answer":"hadde"},
+        {"q":"Oversett: 'They were told to wait outside'","type":"text","answer":"De fikk beskjed om å vente utenfor"},
+        {"q":"Velg: Hva uttrykker 'måtte ha' i 'Han må ha glemt det'?","type":"mc","options":["logical deduction","obligation in past","permission","habit"],"answer":"logical deduction"},
+        {"q":"Oversett: 'She had been working here for ten years before she left'","type":"text","answer":"Hun hadde jobbet her i ti år før hun sluttet"},
+        {"q":"Velg riktig refleksiv bruk: Han skadet ___ på foten.","type":"mc","options":["seg","sin","ham","han"],"answer":"seg"},
+        {"q":"Oversett: 'I would rather you didn't tell anyone'","type":"text","answer":"Jeg vil heller at du ikke sier det til noen"},
+        {"q":"Velg: Hvilken preposisjon kreves med 'avhengig' i 'avhengig ___' ?","type":"mc","options":["av","til","for","med"],"answer":"av"},
+        {"q":"Oversett: 'By the time we arrived, the meeting had already started'","type":"text","answer":"Da vi kom, hadde møtet allerede startet"},
+        {"q":"Velg riktig: Han sa at han ___ ferdig innen fredag.","type":"mc","options":["ville være","vil være","er","var"],"answer":"ville være"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 4,
+      "questions": [
+        {"q":"Velg riktig: Dette er boka ___ jeg snakket om i går.","type":"mc","options":["som","hvem","hvilken","hvor"],"answer":"som"},
+        {"q":"Oversett: 'Although it rained, we continued the trip'","type":"text","answer":"Selv om det regnet, fortsatte vi turen"},
+        {"q":"Velg: Hva betyr 'til tross for' i formell tekst?","type":"mc","options":["despite","because of","in order to","before"],"answer":"despite"},
+        {"q":"Oversett: 'He had to postpone the appointment'","type":"text","answer":"Han måtte utsette avtalen"},
+        {"q":"Velg riktig tempus: Før hun flyttet, ___ hun i Trondheim i fem år.","type":"mc","options":["bodde","har bodd","bor","vil bo"],"answer":"bodde"},
+        {"q":"Oversett: 'I can't remember where I put it'","type":"text","answer":"Jeg kan ikke huske hvor jeg la det"},
+        {"q":"Velg: Hvilken konjunksjon passer for kontrast?","type":"mc","options":["mens","fordi","slik at","når"],"answer":"mens"},
+        {"q":"Oversett: 'They were supposed to arrive at noon'","type":"text","answer":"De skulle komme ved middagstid"},
+        {"q":"Velg riktig: Han er ansvarlig ___ prosjektet.","type":"mc","options":["for","av","til","med"],"answer":"for"},
+        {"q":"Oversett: 'If I were you, I would ask for help'","type":"text","answer":"Hvis jeg var deg, ville jeg be om hjelp"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 4,
+      "questions": [
+        {"q":"Velg riktig: Hun har ikke bestemt seg ___ hvilket kurs hun skal ta.","type":"mc","options":["for","om","til","av"],"answer":"om"},
+        {"q":"Oversett: 'He insisted that the report be finished by Monday'","type":"text","answer":"Han insisterte på at rapporten skulle være ferdig innen mandag"},
+        {"q":"Velg: Hva uttrykker 'skulle ha' i 'Jeg skulle ha ringt' ?","type":"mc","options":["regret/obligation not fulfilled","future intention","habit","permission"],"answer":"regret/obligation not fulfilled"},
+        {"q":"Oversett: 'We had been discussing the issue for hours'","type":"text","answer":"Vi hadde diskutert saken i flere timer"},
+        {"q":"Velg riktig relativsetning: Mannen ___ bilen ble stjålet, ringte politiet.","type":"mc","options":["hvis","som","hvem","hvilken"],"answer":"hvis"},
+        {"q":"Oversett: 'She was surprised that nobody had told her'","type":"text","answer":"Hun ble overrasket over at ingen hadde fortalt henne"},
+        {"q":"Velg: Hvilken form er korrekt i indirekte spørsmål?","type":"mc","options":["Han spurte hvor jeg bodde.","Han spurte hvor bor jeg.","Han spurte hvor bodde jeg.","Han spurte hvor jeg bor?"],"answer":"Han spurte hvor jeg bodde."},
+        {"q":"Oversett: 'They must have misunderstood the instructions'","type":"text","answer":"De må ha misforstått instruksjonene"},
+        {"q":"Velg riktig: Hvis du ___ tidligere, hadde vi rukket toget.","type":"mc","options":["kom","hadde kommet","kommer","komme"],"answer":"hadde kommet"},
+        {"q":"Oversett: 'The book, which I recommended, is out of print'","type":"text","answer":"Boken, som jeg anbefalte, er utsolgt"}
+      ]
+    }
+  ]
+},
+{
+  "level": 5,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 5,
+      "questions": [
+        {"q":"Oversett: 'If I had known about the meeting, I would have prepared a report'","type":"text","answer":"Hvis jeg hadde visst om møtet, ville jeg ha forberedt en rapport"},
+        {"q":"Velg riktig: Han sa at han ___ ferdig med oppgaven innen fredag.","type":"mc","options":["ville være","vil være","er","var"],"answer":"ville være"},
+        {"q":"Oversett: 'She must have left before dawn'","type":"text","answer":"Hun må ha dratt før daggry"},
+        {"q":"Velg: Hva uttrykker 'skulle' i indirekte tale: 'Han sa at han skulle komme'?","type":"mc","options":["future reported speech","ability","permission","habit"],"answer":"future reported speech"},
+        {"q":"Oversett: 'They had been negotiating for weeks before they reached an agreement'","type":"text","answer":"De hadde forhandlet i flere uker før de nådde en avtale"},
+        {"q":"Velg riktig preposisjon: Hun er ansvarlig ___ budsjettet.","type":"mc","options":["for","av","til","med"],"answer":"for"},
+        {"q":"Oversett: 'I regret not having told you earlier'","type":"text","answer":"Jeg angrer på at jeg ikke fortalte deg tidligere"},
+        {"q":"Velg: Hvilken form er korrekt etter 'før' i denne setningen: 'Gjør det før du ___'?","type":"mc","options":["går","gikk","skal gå","gå"],"answer":"går"},
+        {"q":"Oversett: 'He insisted on seeing the contract before signing'","type":"text","answer":"Han insisterte på å se kontrakten før han signerte"},
+        {"q":"Velg riktig: Setningen 'Det er viktig at hun ___ til møtet' krever hvilken modus?","type":"mc","options":["subjunktiv (at hun møter)","indikativ","imperativ","infinitiv"],"answer":"subjunktiv (at hun møter)"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 5,
+      "questions": [
+        {"q":"Velg riktig: Hvis jeg ___ mer erfaring, ville jeg søkt den stillingen.","type":"mc","options":["hadde","har","had","hade"],"answer":"hadde"},
+        {"q":"Oversett: 'The proposal, which was controversial, was rejected by the committee'","type":"text","answer":"Forslaget, som var kontroversielt, ble avvist av komiteen"},
+        {"q":"Velg: Hva betyr 'til tross for at' i formell tekst?","type":"mc","options":["despite the fact that","because","so that","in order to"],"answer":"despite the fact that"},
+        {"q":"Oversett: 'She would rather we had told her the truth'","type":"text","answer":"Hun ville heller at vi hadde fortalt henne sannheten"},
+        {"q":"Velg riktig: Han ble bedt ___ dokumentene innen mandag.","type":"mc","options":["om å levere","å levere","om levere","til å levere"],"answer":"om å levere"},
+        {"q":"Oversett: 'They are used to working under pressure'","type":"text","answer":"De er vant til å jobbe under press"},
+        {"q":"Velg: Hvilken konjunksjon innleder en årsak?","type":"mc","options":["fordi","selv om","dersom","mens"],"answer":"fordi"},
+        {"q":"Oversett: 'I doubt whether the plan will succeed'","type":"text","answer":"Jeg tviler på om planen vil lykkes"},
+        {"q":"Velg riktig ordstilling: I en bisetning kommer verbet vanligvis hvor?","type":"mc","options":["til slutt","før subjektet","før objektet","midt i setningen"],"answer":"til slutt"},
+        {"q":"Oversett: 'Had they informed us earlier, we could have helped'","type":"text","answer":"Hadde de informert oss tidligere, kunne vi ha hjulpet"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 5,
+      "questions": [
+        {"q":"Velg riktig: Hvilken form uttrykker en hypotetisk handling i fortid?","type":"mc","options":["kondisjonalis perfekt","presens","preteritum","futurum"],"answer":"kondisjonalis perfekt"},
+        {"q":"Oversett: 'Despite his objections, the plan went ahead'","type":"text","answer":"Til tross for hans innvendinger, ble planen gjennomført"},
+        {"q":"Velg: Hva krever verbet 'å benekte' vanligvis som objekt?","type":"mc","options":["en påstand","en handling","et sted","en tid"],"answer":"en påstand"},
+        {"q":"Oversett: 'She had been hoping for a promotion for months'","type":"text","answer":"Hun hadde håpet på en forfremmelse i flere måneder"},
+        {"q":"Velg riktig preposisjon: Dette avhenger ___ omstendighetene.","type":"mc","options":["av","på","til","for"],"answer":"av"},
+        {"q":"Oversett: 'I would have preferred if you had told me earlier'","type":"text","answer":"Jeg ville ha foretrukket om du hadde fortalt meg tidligere"},
+        {"q":"Velg: Hvilken setning viser korrekt bruk av passiv?","type":"mc","options":["Boken ble skrevet av forfatteren.","Forfatteren skrev boken.","Forfatteren ble skrevet av boken.","Boken skrev forfatteren."],"answer":"Boken ble skrevet av forfatteren."},
+        {"q":"Oversett: 'They claimed that the results were inconclusive'","type":"text","answer":"De hevdet at resultatene var inkonklusive"},
+        {"q":"Velg riktig: I formell skrift bør man unngå hvilken stil?","type":"mc","options":["slang","formell vokabular","klar struktur","korrekt tegnsetting"],"answer":"slang"},
+        {"q":"Oversett: 'If it weren't for your help, I wouldn't have finished'","type":"text","answer":"Hvis det ikke hadde vært for hjelpen din, ville jeg ikke ha blitt ferdig"}
+      ]
+    }
+  ]
+},
+{
+  "level": 6,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 6,
+      "questions": [
+        {"q":"Oversett: 'Had I known about the delay, I would have changed my plans'","type":"text","answer":"Hadde jeg visst om forsinkelsen, ville jeg ha endret planene mine"},
+        {"q":"Velg riktig: Han sa at han ___ ferdig med rapporten hvis han fikk mer tid.","type":"mc","options":["ville være","ville ha vært","vil være","hadde vært"],"answer":"ville ha vært"},
+        {"q":"Oversett: 'She had been waiting for hours before anyone answered'","type":"text","answer":"Hun hadde ventet i flere timer før noen svarte"},
+        {"q":"Velg: Hva uttrykker 'må ha' i 'Han må ha misforstått'?","type":"mc","options":["logical deduction","past obligation","permission","habit"],"answer":"logical deduction"},
+        {"q":"Oversett: 'They would have completed the project if funding had been available'","type":"text","answer":"De ville ha fullført prosjektet hvis finansiering hadde vært tilgjengelig"},
+        {"q":"Velg riktig partisipp brukt i passiv: Brevet ___ sendt i går.","type":"mc","options":["ble","har blitt","er blitt","var blitt"],"answer":"ble"},
+        {"q":"Oversett: 'I regret that I did not accept the offer'","type":"text","answer":"Jeg angrer på at jeg ikke takket ja til tilbudet"},
+        {"q":"Velg: Hvilken konjunksjon innleder en betingelse som er usann i nåtid?","type":"mc","options":["hvis","om","dersom","som om"],"answer":"som om"},
+        {"q":"Oversett: 'She insisted that the document be signed immediately'","type":"text","answer":"Hun insisterte på at dokumentet skulle signeres umiddelbart"},
+        {"q":"Velg riktig: I indirekte tale endres 'jeg kommer' til ___ når rapportert i fortid.","type":"mc","options":["han sa at han kom","han sa at han kommer","han sa at han ville komme","han sa at han kommer til å komme"],"answer":"han sa at han kom"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 6,
+      "questions": [
+        {"q":"Velg riktig: Hadde jeg vært deg, ___ jeg spurt om råd.","type":"mc","options":["ville","vil","hadde","skal"],"answer":"ville"},
+        {"q":"Oversett: 'The committee had been reviewing the proposal for months'","type":"text","answer":"Komiteen hadde vurdert forslaget i flere måneder"},
+        {"q":"Velg: Hva betyr uttrykket 'å ta noe for gitt'?","type":"mc","options":["to assume something without question","to accept an invitation","to give something away","to check carefully"],"answer":"to assume something without question"},
+        {"q":"Oversett: 'If it hadn't been for her advice, I might have failed'","type":"text","answer":"Hvis det ikke hadde vært for rådet hennes, kunne jeg ha mislyktes"},
+        {"q":"Velg riktig refleksiv konstruksjon: Han stolte ___ ikke på resultatene.","type":"mc","options":["seg","sin","ham","han"],"answer":"seg"},
+        {"q":"Oversett: 'They were required to submit the form by the deadline'","type":"text","answer":"De måtte levere skjemaet innen fristen"},
+        {"q":"Velg: Hvilken form kreves etter 'det er viktig at'?","type":"mc","options":["subjunktiv/konjunktiv","indikativ","infinitiv","imperativ"],"answer":"subjunktiv/konjunktiv"},
+        {"q":"Oversett: 'He claimed he had not received the notification'","type":"text","answer":"Han hevdet at han ikke hadde mottatt varselet"},
+        {"q":"Velg riktig preposisjon: Dette avhenger ___ hvordan situasjonen utvikler seg.","type":"mc","options":["av","på","til","for"],"answer":"av"},
+        {"q":"Oversett: 'I would have preferred if you had asked first'","type":"text","answer":"Jeg ville ha foretrukket om du hadde spurt først"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 6,
+      "questions": [
+        {"q":"Velg riktig: Hvilken setning viser korrekt bruk av konjunktiv i formell norsk?","type":"mc","options":["Det er viktig at han møter opp.","Det er viktig at han møtte opp.","Det er viktig at han vil møte opp.","Det er viktig at han hadde møtt opp."],"answer":"Det er viktig at han møter opp."},
+        {"q":"Oversett: 'She had been hoping they would reconsider the decision'","type":"text","answer":"Hun hadde håpet at de ville revurdere avgjørelsen"},
+        {"q":"Velg: Hva uttrykker 'skulle' i fortid når det brukes i indirekte tale?","type":"mc","options":["reported future","past obligation","habit","permission"],"answer":"reported future"},
+        {"q":"Oversett: 'By then, the results had already been published'","type":"text","answer":"Da var resultatene allerede publisert"},
+        {"q":"Velg riktig: Han oppførte seg ___ om ingenting hadde skjedd.","type":"mc","options":["som om","fordi","slik at","dersom"],"answer":"som om"},
+        {"q":"Oversett: 'They might have misunderstood the instructions'","type":"text","answer":"De kan ha misforstått instruksjonene"},
+        {"q":"Velg: Hvilken form brukes for å uttrykke en hypotetisk konsekvens i fortid?","type":"mc","options":["kondisjonalis perfekt","presens","futurum","preteritum"],"answer":"kondisjonalis perfekt"},
+        {"q":"Oversett: 'The proposal, had it been accepted, would have changed policy'","type":"text","answer":"Forslaget, hadde det blitt akseptert, ville ha endret politikken"},
+        {"q":"Velg riktig ordstilling: I en hovedsetning med adverbial først, kommer verbet vanligvis hvor?","type":"mc","options":["andre posisjon","første posisjon","siste posisjon","midt i setningen"],"answer":"andre posisjon"},
+        {"q":"Oversett: 'I wish I had told you earlier'","type":"text","answer":"Jeg skulle ønske jeg hadde fortalt deg tidligere"}
+      ]
+    }
+  ]
+},
+{
+  "level": 7,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 7,
+      "questions": [
+        {"q":"Oversett: 'Had I been informed earlier, I would have intervened'","type":"text","answer":"Hadde jeg blitt informert tidligere, ville jeg ha grepet inn"},
+        {"q":"Velg riktig: Han påsto at han ___ dokumentene før møtet.","type":"mc","options":["hadde sendt","har sendt","sendte","ville sende"],"answer":"hadde sendt"},
+        {"q":"Oversett: 'She had been considering the offer for weeks'","type":"text","answer":"Hun hadde vurdert tilbudet i flere uker"},
+        {"q":"Velg: Hva uttrykker 'å legge vekt på' i formell norsk?","type":"mc","options":["to emphasize","to ignore","to postpone","to summarize"],"answer":"to emphasize"},
+        {"q":"Oversett: 'They were accused of having breached the contract'","type":"text","answer":"De ble anklaget for å ha brutt kontrakten"},
+        {"q":"Velg riktig preposisjon: Dette er relevant ___ konteksten.","type":"mc","options":["i","for","til","av"],"answer":"for"},
+        {"q":"Oversett: 'I would rather you had not mentioned it'","type":"text","answer":"Jeg ville heller at du ikke hadde nevnt det"},
+        {"q":"Velg: Hvilken form kreves etter 'det er nødvendig at'?","type":"mc","options":["subjunktiv/konjunktiv","indikativ","infinitiv","imperativ"],"answer":"subjunktiv/konjunktiv"},
+        {"q":"Oversett: 'By then, several options had already been explored'","type":"text","answer":"Da hadde flere alternativer allerede blitt vurdert"},
+        {"q":"Velg riktig: I en relativsetning som begynner med 'hvorfor', hvilken funksjon har den vanligvis?","type":"mc","options":["forklarer årsaken","angir tid","utpeker sted","uttrykker hensikt"],"answer":"forklarer årsaken"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 7,
+      "questions": [
+        {"q":"Velg riktig: Hadde jeg visst konsekvensene, ___ jeg handlet annerledes.","type":"mc","options":["ville","vil","hadde","skal"],"answer":"ville"},
+        {"q":"Oversett: 'The committee recommended that the policy be revised'","type":"text","answer":"Komiteen anbefalte at policyen skulle revideres"},
+        {"q":"Velg: Hva betyr idiomet 'å ta noe med en klype salt'?","type":"mc","options":["to treat with skepticism","to accept fully","to celebrate","to forget"],"answer":"to treat with skepticism"},
+        {"q":"Oversett: 'She claimed she had been misled by the figures'","type":"text","answer":"Hun hevdet at hun hadde blitt villedet av tallene"},
+        {"q":"Velg riktig: I formell skrift bør man unngå ___ setningsstruktur.","type":"mc","options":["overkompliserte","enkle","korte","direkte"],"answer":"overkompliserte"},
+        {"q":"Oversett: 'If it weren't for his support, the project would have failed'","type":"text","answer":"Hvis det ikke hadde vært for hans støtte, ville prosjektet ha mislyktes"},
+        {"q":"Velg: Hvilken modus brukes ofte i hypotetiske bisetninger i norsk?","type":"mc","options":["kondisjonalis/subjunktiv","imperativ","indikativ","infinitiv"],"answer":"kondisjonalis/subjunktiv"},
+        {"q":"Oversett: 'They had been debating the proposal until late at night'","type":"text","answer":"De hadde debattert forslaget til sent på kvelden"},
+        {"q":"Velg riktig preposisjon: Dette er i strid ___ våre retningslinjer.","type":"mc","options":["med","av","for","til"],"answer":"med"},
+        {"q":"Oversett: 'I doubt that the amendment will be accepted'","type":"text","answer":"Jeg tviler på at endringen vil bli akseptert"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 7,
+      "questions": [
+        {"q":"Velg riktig: Hvilken setning viser korrekt bruk av passiv perfektum?","type":"mc","options":["Avgjørelsen har blitt tatt av styret.","Styret tok avgjørelsen.","Avgjørelsen tok styret.","Styret har tatt avgjørelsen."],"answer":"Avgjørelsen har blitt tatt av styret."},
+        {"q":"Oversett: 'She insisted that they had no alternative but to comply'","type":"text","answer":"Hun insisterte på at de ikke hadde noe annet valg enn å etterkomme"},
+        {"q":"Velg: Hva uttrykker 'til tross for at' i akademisk språk?","type":"mc","options":["kontrast til tross for fakta","årsak","hensikt","tid"],"answer":"kontrast til tross for fakta"},
+        {"q":"Oversett: 'Had the evidence been stronger, the verdict might have differed'","type":"text","answer":"Hadde bevisene vært sterkere, kunne dommen ha vært annerledes"},
+        {"q":"Velg riktig relativpronomen for formell skrift etter preposisjon: '___ saken gjelder'","type":"mc","options":["den saken","hvilken saken","som saken","hvor saken"],"answer":"som saken"},
+        {"q":"Oversett: 'They were reported to have reached a preliminary agreement'","type":"text","answer":"Det ble rapportert at de hadde nådd en foreløpig avtale"},
+        {"q":"Velg: Hvilken form er korrekt i en hypotetisk kontrafaktisk setning i fortid?","type":"mc","options":["hvis + pluskvamperfektum + kondisjonalis perfekt","hvis + presens + futurum","når + indikativ","selv om + indikativ"],"answer":"hvis + pluskvamperfektum + kondisjonalis perfekt"},
+        {"q":"Oversett: 'I would have preferred that the committee had consulted us first'","type":"text","answer":"Jeg ville ha foretrukket at komiteen hadde konsultert oss først"},
+        {"q":"Velg riktig: I formell rapportering, hvilken stil bør unngås?","type":"mc","options":["førsteperson subjektivitet","nøytral objektivitet","klar definisjon av termer","konsis språkføring"],"answer":"førsteperson subjektivitet"},
+        {"q":"Oversett: 'If the proposal had been implemented, it would have affected many departments'","type":"text","answer":"Hvis forslaget hadde blitt implementert, ville det ha påvirket mange avdelinger"}
+      ]
+    }
+  ]
+},
+{
+  "level": 8,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 8,
+      "questions": [
+        {"q":"Oversett: 'Had the committee known the facts, the recommendation would have been different'","type":"text","answer":"Hadde komiteen kjent faktaene, ville anbefalingen ha vært annerledes"},
+        {"q":"Velg riktig: Han hevdet at han ___ dokumentene før fristen.","type":"mc","options":["hadde sendt","har sendt","ville sende","sendte"],"answer":"hadde sendt"},
+        {"q":"Oversett: 'She had been advocating the change for months'","type":"text","answer":"Hun hadde talt for endringen i flere måneder"},
+        {"q":"Velg: Hva uttrykker 'til tross for at' i formell tekst?","type":"mc","options":["kontrast til tross for fakta","årsak","hensikt","tid"],"answer":"kontrast til tross for fakta"},
+        {"q":"Oversett: 'They were required to provide documentation upon request'","type":"text","answer":"De ble pålagt å fremlegge dokumentasjon ved forespørsel"},
+        {"q":"Velg riktig preposisjon: Dette tiltaket er i tråd ___ våre retningslinjer.","type":"mc","options":["med","av","til","for"],"answer":"med"},
+        {"q":"Oversett: 'I would have expected a more thorough review'","type":"text","answer":"Jeg ville ha forventet en grundigere gjennomgang"},
+        {"q":"Velg: Hvilken form kreves i norsk for indirekte ordre i fortid?","type":"mc","options":["han ba om at det skulle gjøres","han ba om at det gjør","han ba om at det gjøres","han ba om at det gjorde"],"answer":"han ba om at det skulle gjøres"},
+        {"q":"Oversett: 'The proposal, had it been implemented, might have reduced costs'","type":"text","answer":"Forslaget, hadde det blitt implementert, kunne ha redusert kostnadene"},
+        {"q":"Velg riktig: I en bisetning med 'fordi' kommer verbet vanligvis hvor?","type":"mc","options":["til slutt","før subjektet","før verbet i hovedsetningen","midt i setningen"],"answer":"til slutt"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 8,
+      "questions": [
+        {"q":"Velg riktig: Dersom vi ___ tidligere, kunne vi ha unngått problemet.","type":"mc","options":["hadde handlet","handlet","har handlet","ville handle"],"answer":"hadde handlet"},
+        {"q":"Oversett: 'She insisted on clarification before signing the agreement'","type":"text","answer":"Hun insisterte på avklaring før hun signerte avtalen"},
+        {"q":"Velg: Hva betyr uttrykket 'å legge noe til side' i formell sammenheng?","type":"mc","options":["to set something aside for later consideration","to discard permanently","to hide","to summarize"],"answer":"to set something aside for later consideration"},
+        {"q":"Oversett: 'They had been consulting external experts for advice'","type":"text","answer":"De hadde konsultert eksterne eksperter for råd"},
+        {"q":"Velg riktig: Hvilken konjunksjon markerer en betingelse som kan bli oppfylt?","type":"mc","options":["hvis","selv om","fordi","mens"],"answer":"hvis"},
+        {"q":"Oversett: 'I doubt whether the amendment will pass the vote'","type":"text","answer":"Jeg tviler på om endringen vil få flertall"},
+        {"q":"Velg: Hvilken stil er mest passende i en formell rapport?","type":"mc","options":["nøytral og presis","uformell og personlig","slang og kortfattet","retorisk og emosjonell"],"answer":"nøytral og presis"},
+        {"q":"Oversett: 'Had they consulted us, we could have offered alternatives'","type":"text","answer":"Hadde de konsultert oss, kunne vi ha foreslått alternativer"},
+        {"q":"Velg riktig pronomen: Dette er saken ___ vi diskuterte i går.","type":"mc","options":["som","hvem","hvilken","hvor"],"answer":"som"},
+        {"q":"Oversett: 'The document must be submitted no later than Friday'","type":"text","answer":"Dokumentet må leveres senest fredag"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 8,
+      "questions": [
+        {"q":"Velg riktig: Hvilken setning viser korrekt bruk av passiv i perfektum?","type":"mc","options":["Avgjørelsen har blitt tatt av komiteen.","Komiteen tok avgjørelsen.","Avgjørelsen tok komiteen.","Komiteen har tatt avgjørelsen."],"answer":"Avgjørelsen har blitt tatt av komiteen."},
+        {"q":"Oversett: 'She regretted not having raised the issue earlier'","type":"text","answer":"Hun angret på at hun ikke hadde tatt opp saken tidligere"},
+        {"q":"Velg: Hva uttrykker 'skulle' i setningen 'Han sa at han skulle komme' når det rapporteres i fortid?","type":"mc","options":["reported future","past obligation","habit","permission"],"answer":"reported future"},
+        {"q":"Oversett: 'They might have overlooked a crucial detail'","type":"text","answer":"De kan ha oversett en avgjørende detalj"},
+        {"q":"Velg riktig: I formell norsk, hvilken form er å foretrekke for å uttrykke usikkerhet?","type":"mc","options":["kan/måtte ha + perfektum","presens indikativ","imperativ","infinitiv"],"answer":"kan/måtte ha + perfektum"},
+        {"q":"Oversett: 'If it had not been for the evidence, the case would have been dismissed'","type":"text","answer":"Hvis det ikke hadde vært for bevisene, ville saken ha blitt avvist"},
+        {"q":"Velg: Hvilken struktur uttrykker kontrafaktisk betingelse i fortid?","type":"mc","options":["hvis + pluskvamperfektum + kondisjonalis perfekt","hvis + presens + futurum","når + indikativ","selv om + indikativ"],"answer":"hvis + pluskvamperfektum + kondisjonalis perfekt"},
+        {"q":"Oversett: 'The report, which had been peer-reviewed, contained several recommendations'","type":"text","answer":"Rapporten, som hadde vært fagfellevurdert, inneholdt flere anbefalinger"},
+        {"q":"Velg riktig preposisjon: Dette er ikke i samsvar ___ tidligere praksis.","type":"mc","options":["med","av","til","for"],"answer":"med"},
+        {"q":"Oversett: 'I would have expected clearer justification for the decision'","type":"text","answer":"Jeg ville ha forventet en klarere begrunnelse for avgjørelsen"}
+      ]
+    }
+  ]
+},
+{
+  "level": 9,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 9,
+      "questions": [
+        {"q":"Oversett: 'Had the board been informed earlier, different measures might have been taken'","type":"text","answer":"Hadde styret blitt informert tidligere, kunne andre tiltak ha blitt iverksatt"},
+        {"q":"Velg riktig: Han hevdet at rapporten ___ grundig før publisering.","type":"mc","options":["ble gjennomgått","har gjennomgått","er gjennomgått","vil gjennomgå"],"answer":"ble gjennomgått"},
+        {"q":"Oversett: 'She had been advocating stricter standards for several years'","type":"text","answer":"Hun hadde arbeidet for strengere standarder i flere år"},
+        {"q":"Velg: Hva uttrykker 'til tross for at' i akademisk norsk?","type":"mc","options":["kontrast til tross for fakta","årsak","hensikt","tid"],"answer":"kontrast til tross for fakta"},
+        {"q":"Oversett: 'They were alleged to have breached the confidentiality agreement'","type":"text","answer":"Det ble hevdet at de hadde brutt konfidensialitetsavtalen"},
+        {"q":"Velg riktig preposisjon: Dette er i strid ___ etablerte prosedyrer.","type":"mc","options":["med","av","til","for"],"answer":"med"},
+        {"q":"Oversett: 'I would have expected a more comprehensive justification'","type":"text","answer":"Jeg ville ha forventet en mer omfattende begrunnelse"},
+        {"q":"Velg: Hvilken form kreves etter 'det er avgjørende at' i formell norsk?","type":"mc","options":["subjunktiv/konjunktiv","indikativ","infinitiv","imperativ"],"answer":"subjunktiv/konjunktiv"},
+        {"q":"Oversett: 'By the time the inquiry concluded, several hypotheses had been discarded'","type":"text","answer":"Da undersøkelsen var avsluttet, var flere hypoteser forkastet"},
+        {"q":"Velg riktig: I en kontrafaktisk setning i fortid brukes vanligvis hvilken kombinasjon?","type":"mc","options":["pluskvamperfektum + kondisjonalis perfekt","presens + futurum","preteritum + presens","infinitiv + perfektum"],"answer":"pluskvamperfektum + kondisjonalis perfekt"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 9,
+      "questions": [
+        {"q":"Velg riktig: Hadde vi ___ tidligere, kunne vi ha unngått denne komplikasjonen.","type":"mc","options":["handlet","handlet hadde","har handlet","ville handlet"],"answer":"handlet"},
+        {"q":"Oversett: 'The committee recommended that the policy be revised and implemented promptly'","type":"text","answer":"Komiteen anbefalte at policyen skulle revideres og iverksettes raskt"},
+        {"q":"Velg: Hva betyr uttrykket 'å legge vekt på' i formell sammenheng?","type":"mc","options":["to emphasize","to ignore","to postpone","to summarize"],"answer":"to emphasize"},
+        {"q":"Oversett: 'They had been consulting external advisors before finalizing the draft'","type":"text","answer":"De hadde konsultert eksterne rådgivere før de ferdigstilte utkastet"},
+        {"q":"Velg riktig: Hvilken konjunksjon innleder en hypotetisk betingelse som kan være oppfylt?","type":"mc","options":["hvis","selv om","fordi","mens"],"answer":"hvis"},
+        {"q":"Oversett: 'I doubt that the amendment will secure majority support'","type":"text","answer":"Jeg tviler på at endringen vil sikre flertallstøtte"},
+        {"q":"Velg: Hvilken stil er mest passende i en fagfellevurdert artikkel?","type":"mc","options":["nøytral og presis","uformell og personlig","slang og kortfattet","retorisk og emosjonell"],"answer":"nøytral og presis"},
+        {"q":"Oversett: 'Had they sought our input, we could have proposed viable alternatives'","type":"text","answer":"Hadde de søkt vårt innspill, kunne vi ha foreslått levedyktige alternativer"},
+        {"q":"Velg riktig pronomen: Dette er den analysen ___ vi refererte til i innledningen.","type":"mc","options":["som","hvem","hvilken","hvor"],"answer":"som"},
+        {"q":"Oversett: 'The deadline must be observed to ensure procedural fairness'","type":"text","answer":"Fristen må overholdes for å sikre prosessuell rettferdighet"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 9,
+      "questions": [
+        {"q":"Velg riktig: Hvilken setning viser korrekt bruk av passiv perfektum i formell norsk?","type":"mc","options":["Avgjørelsen har blitt fattet av styret.","Styret fattet avgjørelsen.","Avgjørelsen fattet styret.","Styret har fattet avgjørelsen."],"answer":"Avgjørelsen har blitt fattet av styret."},
+        {"q":"Oversett: 'She regretted not having raised the methodological concerns earlier'","type":"text","answer":"Hun angret på at hun ikke hadde tatt opp de metodologiske bekymringene tidligere"},
+        {"q":"Velg: Hva uttrykker 'måtte ha' i 'De måtte ha oversett en viktig detalj'?","type":"mc","options":["logical deduction","past obligation","permission","habit"],"answer":"logical deduction"},
+        {"q":"Oversett: 'They were reported to have reached a tentative agreement pending further review'","type":"text","answer":"Det ble rapportert at de hadde nådd en foreløpig avtale som var avhengig av videre gjennomgang"},
+        {"q":"Velg riktig: I formell skrift bør man unngå hvilken type argumentasjon?","type":"mc","options":["ad hominem-angrep","logisk resonnement","empirisk støtte","klar definisjon"],"answer":"ad hominem-angrep"},
+        {"q":"Oversett: 'If it had not been for the new evidence, the conclusion would have stood'","type":"text","answer":"Hvis det ikke hadde vært for de nye bevisene, ville konklusjonen ha stått ved lag"},
+        {"q":"Velg: Hvilken struktur uttrykker en kontrafaktisk betingelse i fortid?","type":"mc","options":["hvis + pluskvamperfektum + kondisjonalis perfekt","hvis + presens + futurum","når + indikativ","selv om + indikativ"],"answer":"hvis + pluskvamperfektum + kondisjonalis perfekt"},
+        {"q":"Oversett: 'The report, which had undergone peer review, included several caveats'","type":"text","answer":"Rapporten, som hadde gjennomgått fagfellevurdering, inneholdt flere forbehold"},
+        {"q":"Velg riktig preposisjon: Dette er ikke i samsvar ___ internasjonale standarder.","type":"mc","options":["med","av","til","for"],"answer":"med"},
+        {"q":"Oversett: 'I would have preferred that the committee had consulted external experts first'","type":"text","answer":"Jeg ville ha foretrukket at komiteen hadde konsultert eksterne eksperter først"}
+      ]
+    }
+  ]
+},
+{
+  "level": 10,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 10,
+      "questions": [
+        {"q":"Oversett: 'Had the evidence been conclusive, the committee would have reached a different conclusion'","type":"text","answer":"Hadde bevisene vært avgjørende, ville komiteen ha kommet til en annen konklusjon"},
+        {"q":"Velg riktig: I formell norsk bør man skrive 'det er viktig at hun ___ til stede'.","type":"mc","options":["er","var","møter","møtte"],"answer":"møter"},
+        {"q":"Oversett: 'They were alleged to have acted in breach of fiduciary duties'","type":"text","answer":"Det ble hevdet at de hadde handlet i strid med tillitspliktene"},
+        {"q":"Velg: Hvilken struktur uttrykker best en kontrafaktisk betingelse i fortid?","type":"mc","options":["Hadde + pluskvamperfektum, ville + kondisjonalis perfekt","Hvis + presens, vil + futurum","Når + presens, så + presens","Selv om + indikativ"],"answer":"Hadde + pluskvamperfektum, ville + kondisjonalis perfekt"},
+        {"q":"Oversett: 'The proposal, which had been subject to extensive review, still contained unresolved issues'","type":"text","answer":"Forslaget, som hadde vært gjenstand for omfattende gjennomgang, inneholdt fortsatt uløste spørsmål"},
+        {"q":"Velg riktig preposisjon: Dette er ikke i samsvar ___ gjeldende praksis.","type":"mc","options":["med","av","til","for"],"answer":"med"},
+        {"q":"Oversett: 'I would have expected the rationale to be more thoroughly documented'","type":"text","answer":"Jeg ville ha forventet at begrunnelsen var dokumentert mer grundig"},
+        {"q":"Velg: Hvilken modus brukes ofte i formelle krav etter 'det er nødvendig at'?","type":"mc","options":["subjunktiv/konjunktiv","indikativ","imperativ","infinitiv"],"answer":"subjunktiv/konjunktiv"},
+        {"q":"Oversett: 'Had they disclosed the conflict of interest, the outcome might have been different'","type":"text","answer":"Hadde de opplyst om interessekonflikten, kunne utfallet ha vært annerledes"},
+        {"q":"Velg riktig: I en kompleks bisetning med flere ledd kommer verbet i bisetningen vanligvis hvor?","type":"mc","options":["til slutt","før subjektet","midt i setningen","før hovedverbet"],"answer":"til slutt"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 10,
+      "questions": [
+        {"q":"Oversett: 'The report, having been peer-reviewed, nevertheless left several methodological concerns'","type":"text","answer":"Rapporten, etter å ha blitt fagfellevurdert, etterlot likevel flere metodologiske bekymringer"},
+        {"q":"Velg riktig: Hvilken setning viser korrekt bruk av passiv perfektum i formell norsk?","type":"mc","options":["Avgjørelsen har blitt fattet av styret.","Styret fattet avgjørelsen.","Avgjørelsen fattet styret.","Styret har fattet avgjørelsen."],"answer":"Avgjørelsen har blitt fattet av styret."},
+        {"q":"Oversett: 'They contended that the interpretation was inconsistent with established precedent'","type":"text","answer":"De hevdet at tolkningen var inkonsekvent med etablert presedens"},
+        {"q":"Velg: Hva uttrykker 'måtte ha' i 'De måtte ha oversett en viktig faktor'?","type":"mc","options":["logisk slutning","fortidig forpliktelse","tillatelse","vane"],"answer":"logisk slutning"},
+        {"q":"Oversett: 'If it had not been for the mitigating circumstances, the sanction would have been harsher'","type":"text","answer":"Hvis det ikke hadde vært for formildende omstendigheter, ville sanksjonen ha vært strengere"},
+        {"q":"Velg riktig: Hvilken konjunksjon innleder en årsaksforklaring i formell tekst?","type":"mc","options":["fordi","selv om","dersom","mens"],"answer":"fordi"},
+        {"q":"Oversett: 'I would have preferred that the committee had sought independent advice'","type":"text","answer":"Jeg ville ha foretrukket at komiteen hadde søkt uavhengig rådgivning"},
+        {"q":"Velg: Hvilken stil er mest passende i en formell utredning?","type":"mc","options":["nøytral og presis","uformell og personlig","retorisk og emosjonell","slang og kortfattet"],"answer":"nøytral og presis"},
+        {"q":"Oversett: 'Had the amendment been adopted, it would have required substantial procedural changes'","type":"text","answer":"Hadde endringen blitt vedtatt, ville det ha krevd betydelige prosedyremessige endringer"},
+        {"q":"Velg riktig pronomen: Dette er den analysen ___ vi henviste til i sammendraget.","type":"mc","options":["som","hvem","hvilken","hvor"],"answer":"som"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 10,
+      "questions": [
+        {"q":"Velg riktig: Hvilken formulering er mest formelt korrekt for å uttrykke beklagelse i en rapport?","type":"mc","options":["Vi beklager at prosessen ikke var tilstrekkelig dokumentert.","Beklager at det ble gjort en feil.","Unnskyld for ulempen.","Jeg er lei meg for dette."],"answer":"Vi beklager at prosessen ikke var tilstrekkelig dokumentert."},
+        {"q":"Oversett: 'They were reported to have reached a provisional agreement subject to further verification'","type":"text","answer":"Det ble rapportert at de hadde nådd en foreløpig avtale underlagt videre verifisering"},
+        {"q":"Velg: Hvilken struktur uttrykker best en formell anbefaling?","type":"mc","options":["Det anbefales at komiteen vurderer...","Jeg synes komiteen bør...","Du bør vurdere...","Vi må gjøre dette nå."],"answer":"Det anbefales at komiteen vurderer..."},
+        {"q":"Oversett: 'Had the risks been properly assessed, the mitigation plan would have been more robust'","type":"text","answer":"Hadde risikoene blitt vurdert riktig, ville avbøtingsplanen ha vært mer robust"},
+        {"q":"Velg riktig: I akademisk norsk bør man unngå hvilken type formulering?","type":"mc","options":["ubekreftede generaliseringer","klar definisjon av begreper","henvisning til kilder","presis terminologi"],"answer":"ubekreftede generaliseringer"},
+        {"q":"Oversett: 'I would have expected the minutes to reflect the substantive debate'","type":"text","answer":"Jeg ville ha forventet at møtereferatet reflekterte den substansielle debatten"},
+        {"q":"Velg: Hvilken kombinasjon brukes i kontrafaktiske setninger i fortid?","type":"mc","options":["pluskvamperfektum + kondisjonalis perfekt","presens + futurum","preteritum + presens","infinitiv + perfektum"],"answer":"pluskvamperfektum + kondisjonalis perfekt"},
+        {"q":"Oversett: 'The document, which had been revised several times, still required editorial clarification'","type":"text","answer":"Dokumentet, som hadde blitt revidert flere ganger, krevde fortsatt redaksjonell avklaring"},
+        {"q":"Velg riktig preposisjon: Dette er i samsvar ___ internasjonale retningslinjer.","type":"mc","options":["med","av","til","for"],"answer":"med"},
+        {"q":"Oversett: 'In retrospect, I should have raised these concerns earlier'","type":"text","answer":"I ettertid burde jeg ha tatt opp disse bekymringene tidligere"}
+      ]
+    }
+  ]
+}
+]
+}

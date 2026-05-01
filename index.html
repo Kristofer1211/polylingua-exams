@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>PolyLingua Exams</title>
+
+  <!-- Runic font for Old Norse mode -->
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Runic&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div id="app">
+    <header class="topbar">
+      <div class="brand">
+        <div class="logo">PL</div>
+         <img id="flagIcon" class="flag" alt="Language flag">
+        <div>
+          <h1>PolyLingua Exams</h1>
+          <p class="tag">Icelandic · Norwegian · Spanish</p>
+        </div>
+      </div>
+
+      <div class="controls">
+        <label class="small">Language</label>
+        <select id="languageSelect" aria-label="Select language">
+          <option value="spanish">Spanish</option>
+          <option value="norwegian">Norwegian</option>
+          <option value="icelandic">Icelandic</option>
+        </select>
+
+        <label class="small">Level</label>
+        <select id="levelSelect" aria-label="Select level">
+          <option value="1">Level 1</option>
+          <option value="2">Level 2</option>
+          <option value="3">Level 3</option>
+          <option value="4">Level 4</option>
+          <option value="5">Level 5</option>
+          <option value="6">Level 6</option>
+          <option value="7">Level 7</option>
+          <option value="8">Level 8</option>
+          <option value="9">Level 9</option>
+          <option value="10">Level 10</option>
+        </select>
+
+        <label class="small">Quiz</label>
+        <select id="quizSelect" aria-label="Select quiz">
+          <option value="0">Quiz A</option>
+          <option value="1">Quiz B</option>
+          <option value="2">Quiz C</option>
+        </select>
+
+        <!-- Old Norse toggle goes here -->
+        <div class="themeToggle">
+      
+          <button id="oldNorseToggle" class="btn">Toggle Old Norse</button>
+        </div>
+        
+        <button id="musicToggle" class="btn">Music: Off</button>
+
+        <button id="startBtn" class="btn primary">Start Exam</button>
+      </div>
+    </header>
+
+    <main>
+      <section id="startArea" class="card">
+        <h2>Exam Setup</h2>
+        <p>Select language, level, and quiz. Enter a username to publish to the leaderboard.</p>
+
+        <div class="optionsRow">
+          <label class="small">Username for leaderboard</label>
+          <input id="nickname" placeholder="Username (no personal info)" maxlength="20">
+        </div>
+
+        <div class="help">
+          <p><strong>Privacy</strong> — Only username and score are stored. No personal data required.</p>
+        </div>
+      </section>
+
+      <section id="quizArea" class="card hidden">
+        <div class="quizHeader">
+          <div id="progress">Question <span id="currentIndex">0</span> / <span id="totalQuestions">0</span></div>
+          <div id="dotProgress" class="dotProgress"></div>
+          <div class="statsMini">
+            <span id="scoreMini">Score: 0</span>
+            <span id="accuracyMini">Accuracy: 0%</span>
+            <span id="timeMini">Time: 00:00</span>
+          </div>
+        </div>
+
+        <div id="questionContainer" class="cardInner"></div>
+
+        <div class="quizFooter">
+          <button id="prevBtn" class="btn">Previous</button>
+          <button id="nextBtn" class="btn">Next</button>
+          <button id="submitBtn" class="btn primary">Submit Exam</button>
+        </div>
+      </section>
+
+      <section id="resultsArea" class="card hidden">
+        <h2>Results</h2>
+        <div id="resultsSummary" class="cardInner"></div>
+
+        <div class="resultsActions">
+          <button id="retryBtn" class="btn">Retry Same Exam</button>
+          <button id="newBtn" class="btn">New Exam</button>
+          <button id="shareBtn" class="btn primary">Publish Score</button>
+        </div>
+
+        <div id="leaderboard" class="leaderboard cardInner">
+          <h3>Leaderboard</h3>
+          <div id="leaderboardList">Loading leaderboard…</div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <small>Created by Kristófer Pasquale for language learners</small>
+    </footer>
+  </div>
+  
+  <div class="bottomToolbar">
+   <button id="viewLeaderboardBtn" class="btn toolbarBtn">View Leaderboard</button>
+   <button id="resetQuizBtn" class="btn toolbarBtn">Reset</button>
+ </div>
+
+ <audio id="bgMusic" src="audio/campanella.mp3" loop></audio>
+
+  <script src="js/firebase-config.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/ui-enhancements.js"></script>
+  
+</body>
+</html>

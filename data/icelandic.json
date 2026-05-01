@@ -1,0 +1,535 @@
+{
+  "language": "Icelandic",
+  "levels": [
+    {
+      "level": 1,
+      "quizzes": [
+        {
+          "title": "Quiz A",
+          "level": 1,
+          "questions": [
+            {"q":"Hvernig segir maður 'Good morning' á íslensku?","type":"mc","options":["Góðan daginn","Góða nótt","Halló","Bless"],"answer":"Góðan daginn"},
+            {"q":"Veldu rétt form: Ég ___ í Reykjavík.","type":"mc","options":["bý","býr","bjuggu","búum"],"answer":"bý"},
+            {"q":"Þýddu: 'I don't understand'","type":"text","answer":"Ég skil ekki"},
+            {"q":"Veldu: Hvað þýðir 'takk'?","type":"mc","options":["thank you","please","sorry","hello"],"answer":"thank you"},
+            {"q":"Þýddu: 'See you later'","type":"text","answer":"Sjáumst seinna"},
+            {"q":"Veldu rétt: Hann ___ bók.","type":"mc","options":["les","lesur","las","lesið"],"answer":"les"},
+            {"q":"Þýddu: 'I have two sisters'","type":"text","answer":"Ég á tvær systur"},
+            {"q":"Veldu: Hvað er talan '5' á íslensku?","type":"mc","options":["fimm","fjögur","sex","sjö"],"answer":"fimm"},
+            {"q":"Þýddu: 'Where is the bathroom?'","type":"text","answer":"Hvar er klósettið?"},
+            {"q":"Veldu: Hvernig segir maður 'Please' á íslensku?","type":"mc","options":["Vinsamlegast","Takk","Fyrirgefðu","Halló"],"answer":"Vinsamlegast"}
+          ]
+        },
+        {
+          "title": "Quiz B",
+          "level": 1,
+          "questions": [
+            {"q":"Þýddu: 'We are going to the store'","type":"text","answer":"Við erum að fara í búðina"},
+            {"q":"Veldu: Getur þú ___ gluggann?","type":"mc","options":["opnað","opnar","opnun","opið"],"answer":"opnað"},
+            {"q":"Þýddu: 'I like Icelandic food'","type":"text","answer":"Mér líkar íslensk matur"},
+            {"q":"Veldu rétt: Hún ___ kaffi á morgnana.","type":"mc","options":["drekkur","drekkur ekki","drakk","drekkur alltaf"],"answer":"drekkur"},
+            {"q":"Þýddu: 'My name is Anna'","type":"text","answer":"Ég heiti Anna"},
+            {"q":"Veldu: Hvað þýðir 'vinur'?","type":"mc","options":["friend","enemy","house","work"],"answer":"friend"},
+            {"q":"Þýddu: 'I live in a small house'","type":"text","answer":"Ég bý í litlu húsi"},
+            {"q":"Veldu: Hvernig segir maður 'Good night' á íslensku?","type":"mc","options":["Góða nótt","Góðan daginn","Góða kvöldið","Bless"],"answer":"Góða nótt"},
+            {"q":"Þýddu: 'Do you speak English?'","type":"text","answer":"Talar þú ensku?"},
+            {"q":"Veldu: Hvaða óákveðinn greinir hentar fyrir 'epli' (a/an)?","type":"mc","options":["eitt","ein","einu","engin"],"answer":"eitt"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 1,
+          "questions": [
+            {"q":"Þýddu: 'I like Icelandic food'","type":"text","answer":"Mér líkar íslensk matur"},
+            {"q":"Fylla inn: ___ ára ertu?","type":"mc","options":["Hversu","Hversu mikið","Hvað","Hver"],"answer":"Hversu"},
+            {"q":"Þýddu: 'Excuse me'","type":"text","answer":"Fyrirgefðu / Afsakið"},
+            {"q":"Veldu: Hvað þýðir 'fjölskylda'?","type":"mc","options":["family","friend","city","work"],"answer":"family"},
+            {"q":"Þýddu: 'I am hungry'","type":"text","answer":"Ég er svangur / Ég er svöng"},
+            {"q":"Veldu rétt: Við ___ í skólanum núna.","type":"mc","options":["erum","vorum","verðum","vöru"],"answer":"erum"},
+            {"q":"Þýddu: 'How old are you?'","type":"text","answer":"Hversu gamall/gömul ertu?"},
+            {"q":"Veldu: Hvað er fleirtala af 'bók'?","type":"mc","options":["bækur","bók","bókar","bókin"],"answer":"bækur"},
+            {"q":"Þýddu: 'I need water'","type":"text","answer":"Mig vantar vatn"},
+            {"q":"Veldu: Hvernig segir maður 'Thank you very much' á íslensku?","type":"mc","options":["Kærar þakkir","Takk","Vinsamlegast","Fyrirgefðu"],"answer":"Kærar þakkir"}
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "quizzes": [
+        {
+          "title": "Quiz A",
+          "level": 2,
+          "questions": [
+            {"q":"Þýddu: 'She needs help'","type":"text","answer":"Hún þarf hjálp"},
+            {"q":"Veldu rétt nútíð: Hann ___ alltaf seinn.","type":"mc","options":["er","verður","kemur","kom"],"answer":"kemur"},
+            {"q":"Þýddu: 'I will call you tomorrow'","type":"text","answer":"Ég mun hringja í þig á morgun"},
+            {"q":"Veldu: Hvað þýðir 'fljótlega'?","type":"mc","options":["soon","never","always","yesterday"],"answer":"soon"},
+            {"q":"Þýddu: 'They bought a new house'","type":"text","answer":"Þau keyptu nýtt hús"},
+            {"q":"Veldu rétt forsetning: Bókin er ___ borðinu.","type":"mc","options":["á","í","undir","við"],"answer":"á"},
+            {"q":"Þýddu: 'Can you help me with this?'","type":"text","answer":"Geturðu hjálpað mér með þetta?"},
+            {"q":"Veldu: Hvernig segir maður 'today' á íslensku?","type":"mc","options":["í dag","á morgun","í gær","núna"],"answer":"í dag"},
+            {"q":"Þýddu: 'We saw a movie last night'","type":"text","answer":"Við sáum mynd í gærkvöldi"},
+            {"q":"Veldu rétt: Hún ___ ekki til vinnu vegna veikinda.","type":"mc","options":["fór","fer","kom","var"],"answer":"var"}
+          ]
+        },
+        {
+          "title": "Quiz B",
+          "level": 2,
+          "questions": [
+            {"q":"Þýddu: 'My parents work a lot'","type":"text","answer":"Foreldrar mínir vinna mikið"},
+            {"q":"Veldu rétt nútíð: Hún ___ kaffi núna.","type":"mc","options":["drekkur","drakk","drekkur ekki","drekkur alltaf"],"answer":"drekkur"},
+            {"q":"Þýddu: 'Where do you live?'","type":"text","answer":"Hvar býrðu?"},
+            {"q":"Veldu: Hvað þýðir 'snart'?","type":"mc","options":["soon","never","always","yesterday"],"answer":"soon"},
+            {"q":"Þýddu: 'I have been to Reykjavík'","type":"text","answer":"Ég hef verið í Reykjavík"},
+            {"q":"Veldu rétt: Við ___ kvöldmat klukkan sjö.","type":"mc","options":["borðum","borðuðum","borða","borðað"],"answer":"borðum"},
+            {"q":"Þýddu: 'She doesn't like coffee'","type":"text","answer":"Henni líkar ekki kaffi"},
+            {"q":"Veldu: Hvernig spyrðu um verðið?","type":"mc","options":["Hvað kostar þetta?","Hvað heitir þú?","Hvar býrðu?","Get ég fengið reikninginn?"],"answer":"Hvað kostar þetta?"},
+            {"q":"Þýddu: 'I need a ticket to Akureyri'","type":"text","answer":"Mig vantar miða til Akureyrar"},
+            {"q":"Veldu rétt: Við ___ í bíó um helgina.","type":"mc","options":["förum","fórum","farið","ferðum"],"answer":"förum"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 2,
+          "questions": [
+            {"q":"Veldu rétt: Þeir ___ heima í gær.","type":"mc","options":["voru","eru","verða","voru ekki"],"answer":"voru"},
+            {"q":"Þýddu: 'I would like a cup of tea'","type":"text","answer":"Ég myndi vilja bolla af te"},
+            {"q":"Veldu: Hvað þýðir 'alltaf'?","type":"mc","options":["always","sometimes","never","rarely"],"answer":"always"},
+            {"q":"Þýddu: 'The children are playing outside'","type":"text","answer":"Börnin eru að leika sér úti"},
+            {"q":"Veldu rétt fornafn: ___ heitir María.","type":"mc","options":["Hún","Hann","Það","Við"],"answer":"Hún"},
+            {"q":"Þýddu: 'Do you want to come with us?'","type":"text","answer":"Viltu koma með okkur?"},
+            {"q":"Veldu: Hvernig segir maður 'Monday' á íslensku?","type":"mc","options":["mánudagur","þriðjudagur","miðvikudagur","sunnudagur"],"answer":"mánudagur"},
+            {"q":"Þýddu: 'I lost my keys'","type":"text","answer":"Ég missti lykla mína"},
+            {"q":"Veldu rétt: Hann hefur búið hér ___ fimm ár.","type":"mc","options":["í","á","til","fyrir"],"answer":"í"},
+            {"q":"Þýddu: 'Please speak more slowly'","type":"text","answer":"Vinsamlegast talaðu hægar"}
+          ]
+        }
+      ]
+    },
+    {
+  "level": 3,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 3,
+      "questions": [
+        {"q":"Þýddu: 'I have to study today'","type":"text","answer":"Ég þarf að læra í dag"},
+        {"q":"Veldu rétt þátíð: Í gær ___ ég langa göngu.","type":"mc","options":["fór","fer","fari","fórum"],"answer":"fór"},
+        {"q":"Þýddu: 'She has already left'","type":"text","answer":"Hún er þegar farin"},
+        {"q":"Veldu: Hvað þýðir 'þurfti' í setningunni 'Hann þurfti að fara'?","type":"mc","options":["had to","may","might","must"],"answer":"had to"},
+        {"q":"Þýddu: 'We will have finished by noon'","type":"text","answer":"Við verðum búin fyrir hádegi"},
+        {"q":"Veldu rétt fornafn: Hann sá ___ í speglinum.","type":"mc","options":["sig","sinn","hann","hún"],"answer":"sig"},
+        {"q":"Þýddu: 'They had already eaten when I arrived'","type":"text","answer":"Þau höfðu þegar borðað þegar ég kom"},
+        {"q":"Veldu: Hver er rétt samanburðarform: Hún er ___ en bróðir hennar.","type":"mc","options":["eldri","eldri en","meiri gamall","gamal"],"answer":"eldri"},
+        {"q":"Þýddu: 'I forgot to bring my passport'","type":"text","answer":"Ég gleymdi að taka vegabréfið með mér"},
+        {"q":"Veldu rétt forsetning: Strætóinn fer ___ stöðinni klukkan átta.","type":"mc","options":["frá","til","á","við"],"answer":"frá"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 3,
+      "questions": [
+        {"q":"Þýddu: 'Where is the bus stop'","type":"text","answer":"Hvar er strætóstoppistöðin?"},
+        {"q":"Veldu rétt nútíð/perfekt: Hann ___ (að skrifa) bréf í dag.","type":"mc","options":["hefur skrifað","skrifaði","skrifar","skrifa"],"answer":"hefur skrifað"},
+        {"q":"Þýddu: 'I used to live in Reykjavík'","type":"text","answer":"Ég bjó áður í Reykjavík"},
+        {"q":"Veldu: Hvað sýnir 'skal' í 'Ég skal fara á morgun'?","type":"mc","options":["framtíðaráætlun","hæfileika","skyldu","leyfi"],"answer":"framtíðaráætlun"},
+        {"q":"Þýddu: 'She didn't understand the question'","type":"text","answer":"Hún skildi ekki spurninguna"},
+        {"q":"Veldu rétt: Við verðum að bíða ___ að lestin komi.","type":"mc","options":["þangað til","fyrir","eftir","með"],"answer":"þangað til"},
+        {"q":"Þýddu: 'He promised to call me'","type":"text","answer":"Hann lofaði að hringja í mig"},
+        {"q":"Veldu: Hver er rétt orðröð í spurningu á íslensku?","type":"mc","options":["Sagnorð fyrir framan frumlag","Frumlag fyrir framan sagnorð","Andlag fyrst","Atviksorð fyrst"],"answer":"Sagnorð fyrir framan frumlag"},
+        {"q":"Þýddu: 'I have never been to Akureyri'","type":"text","answer":"Ég hef aldrei verið í Akureyri"},
+        {"q":"Veldu rétt: Hún sagði að hún ___ koma seinna.","type":"mc","options":["myndi","mun","er","var"],"answer":"myndi"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 3,
+      "questions": [
+        {"q":"Veldu rétt: Þessi verkefni er ___ en hitt.","type":"mc","options":["erfiðara","meira erfitt","erfitt","erfiðast"],"answer":"erfiðara"},
+        {"q":"Þýddu: 'I bought it because it was cheap'","type":"text","answer":"Ég keypti það því það var ódýrt"},
+        {"q":"Veldu rétt fornafn: Þetta er bókin ___ ég talaði um.","type":"mc","options":["sem","hver","hvaða","hvar"],"answer":"sem"},
+        {"q":"Þýddu: 'They will probably arrive late'","type":"text","answer":"Þau munu líklega koma seint"},
+        {"q":"Veldu: Hvað þýðir 'þó að' í setningu?","type":"mc","options":["although","because","so that","if"],"answer":"although"},
+        {"q":"Þýddu: 'I should have told you earlier'","type":"text","answer":"Ég hefði átt að segja þér fyrr"},
+        {"q":"Veldu rétt: Hann er vanur ___ að vinna seint.","type":"mc","options":["að","til","í","með"],"answer":"að"},
+        {"q":"Þýddu: 'She asked whether I could help'","type":"text","answer":"Hún spurði hvort ég gæti hjálpað"},
+        {"q":"Veldu: Hvaða setning er rétt í óbeinni ræðu?","type":"mc","options":["Hann sagði að hann væri þreyttur.","Hann segir að hann var þreyttur.","Hann sagði að hann er þreyttur.","Hann segir að hann var þreyttur."],"answer":"Hann sagði að hann væri þreyttur."},
+        {"q":"Þýddu: 'If I had known, I would have come'","type":"text","answer":"Ef ég hefði vitað, hefði ég komið"}
+      ]
+    }
+  ]
+},
+{
+  "level": 4,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 4,
+      "questions": [
+        {"q":"Þýddu: 'I had already left when she arrived'","type":"text","answer":"Ég var þegar farin þegar hún kom"},
+        {"q":"Veldu rétt: Ef ég ___ meiri tíma, myndi ég ferðast oftar.","type":"mc","options":["hef","hefði","hefur","hafi"],"answer":"hefði"},
+        {"q":"Þýddu: 'They were told to wait outside'","type":"text","answer":"Þeim var sagt að bíða úti"},
+        {"q":"Veldu: Hvað merkir 'hafa má' í setningunni 'Hann má hafa gleymt því'?","type":"mc","options":["logical deduction","obligation","permission","habit"],"answer":"logical deduction"},
+        {"q":"Þýddu: 'She had been working here for ten years before she left'","type":"text","answer":"Hún hafði unnið hér í tíu ár áður en hún hætti"},
+        {"q":"Veldu rétt reflexív: Hann meiddist á ___.","type":"mc","options":["fótinn","fótur","fótar","fótum"],"answer":"fótinn"},
+        {"q":"Þýddu: 'I would rather you didn't tell anyone'","type":"text","answer":"Ég vildi frekar að þú segðir engum frá því"},
+        {"q":"Veldu: Hvaða forsetning fylgir 'háð' í 'háð niðurstöðu'?","type":"mc","options":["háð","við","til","af"],"answer":"háð"},
+        {"q":"Þýddu: 'By the time we arrived, the meeting had already started'","type":"text","answer":"Þegar við komum hafði fundurinn þegar byrjað"},
+        {"q":"Veldu rétt: Hann sagði að hann ___ tilbúinn fyrir föstudag.","type":"mc","options":["myndi vera","mun vera","er","var"],"answer":"myndi vera"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 4,
+      "questions": [
+        {"q":"Veldu rétt: Þetta er bókin ___ ég talaði um.","type":"mc","options":["sem","hvað","hver","hvar"],"answer":"sem"},
+        {"q":"Þýddu: 'Although it rained, we continued the trip'","type":"text","answer":"Þótt það rigndi héldum við áfram ferðinni"},
+        {"q":"Veldu: Hvað þýðir 'til trosss fyrir' (til tross fyrir) í formlegu máli?","type":"mc","options":["despite","because of","in order to","before"],"answer":"despite"},
+        {"q":"Þýddu: 'He had to postpone the appointment'","type":"text","answer":"Hann þurfti að fresta fundinum"},
+        {"q":"Veldu rétt tempus: Áður en hún flutti, ___ hún í Reykjavík í fimm ár.","type":"mc","options":["bjó","hef búið","býr","mun búa"],"answer":"bjó"},
+        {"q":"Þýddu: 'I can't remember where I put it'","type":"text","answer":"Ég man ekki hvar ég setti það"},
+        {"q":"Veldu: Hvaða samtenging sýnir andstæðu?","type":"mc","options":["þótt","vegna","til þess að","þegar"],"answer":"þótt"},
+        {"q":"Þýddu: 'They were supposed to arrive at noon'","type":"text","answer":"Þau áttu að koma við hádegi"},
+        {"q":"Veldu rétt: Hann er ábyrgur ___ verkefninu.","type":"mc","options":["fyrir","af","til","við"],"answer":"fyrir"},
+        {"q":"Þýddu: 'If I were you, I would ask for help'","type":"text","answer":"Ef ég væri þú myndi ég biðja um hjálp"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 4,
+      "questions": [
+        {"q":"Veldu rétt: Hún hefur ekki ákveðið sig ___ hvaða námskeið hún tekur.","type":"mc","options":["um","fyrir","til","við"],"answer":"um"},
+        {"q":"Þýddu: 'He insisted that the report be finished by Monday'","type":"text","answer":"Hann krafðist þess að skýrslan yrði tilbúin fyrir mánudag"},
+        {"q":"Veldu: Hvað sýnir 'skul­le hafa' í 'Ég hefði átt að hringja'?","type":"mc","options":["regret/obligation not fulfilled","future intention","habit","permission"],"answer":"regret/obligation not fulfilled"},
+        {"q":"Þýddu: 'We had been discussing the issue for hours'","type":"text","answer":"Við höfðum verið að ræða málið í klukkutíma mörg"},
+        {"q":"Veldu rétt relativsetning: Maðurinn ___ bíllinn var stolið hringdi í lögregluna.","type":"mc","options":["sem","hvers","hvaða","hvar"],"answer":"sem"},
+        {"q":"Þýddu: 'She was surprised that nobody had told her'","type":"text","answer":"Hún var hissa að enginn hafði sagt henni það"},
+        {"q":"Veldu: Hvaða form er rétt í óbeinni spurningu?","type":"mc","options":["Hann spurði hvar ég bjó.","Hann spurði hvar býr ég.","Hann spurði hvar ég bjó?","Hann spurði hvar bjó ég."],"answer":"Hann spurði hvar ég bjó."},
+        {"q":"Þýddu: 'They must have misunderstood the instructions'","type":"text","answer":"Þau verða að hafa misskilið leiðbeiningarnar"},
+        {"q":"Veldu rétt: Ef þú ___ fyrr, hefðum við náð lestinni.","type":"mc","options":["hefðir komið","komst","kom","hefðir komið ekki"],"answer":"hefðir komið"},
+        {"q":"Þýddu: 'The book, which I recommended, is out of print'","type":"text","answer":"Bókin, sem ég mældi með, er uppseld"}
+      ]
+    }
+  ]
+},
+{
+  "level": 5,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 5,
+      "questions": [
+        {"q":"Þýddu: 'If I had known about the meeting, I would have prepared a report'","type":"text","answer":"Ef ég hefði vitað um fundinn, hefði ég undirbúið skýrslu"},
+        {"q":"Veldu rétt: Hann sagði að hann ___ verkefninu fyrir föstudag.","type":"mc","options":["myndu klára","mun klára","klára","hef klárað"],"answer":"myndu klára"},
+        {"q":"Þýddu: 'She must have left before dawn'","type":"text","answer":"Hún hlýtur að hafa farið fyrir dögun"},
+        {"q":"Veldu: Hvað sýnir 'skulu' í óbeinni ræðu: 'Hann sagði að hann skyldi koma'?","type":"mc","options":["reported future","ability","permission","habit"],"answer":"reported future"},
+        {"q":"Þýddu: 'They had been negotiating for weeks before they reached an agreement'","type":"text","answer":"Þau höfðu verið að semja í vikur áður en þau náðu samkomulagi"},
+        {"q":"Veldu rétt forsetning: Hún ber ábyrgð ___ fjárhagsáætluninni.","type":"mc","options":["á","fyrir","við","til"],"answer":"á"},
+        {"q":"Þýddu: 'I regret not having told you earlier'","type":"text","answer":"Ég sé eftir að hafa ekki sagt þér fyrr"},
+        {"q":"Veldu: Hvaða tíð er rétt eftir 'áður en' í setningunni 'Áður en þú ___'?","type":"mc","options":["færð","fáir","fá","fáðu"],"answer":"færð"},
+        {"q":"Þýddu: 'He insisted on seeing the contract before signing'","type":"text","answer":"Hann krafðist þess að sjá samninginn áður en hann skrifaði undir"},
+        {"q":"Veldu rétt: Setningin 'Það er mikilvægt að hún ___ á fundinn' krefst hvaða háttarfalls/hamar?","type":"mc","options":["sérstaks viðtengingarháttar (að hún mæti)","framsöguháttar","boðháttar","nafnháttar"],"answer":"sérstaks viðtengingarháttar (að hún mæti)"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 5,
+      "questions": [
+        {"q":"Veldu rétt: Ef ég ___ meiri reynslu, myndi ég sækja um starfið.","type":"mc","options":["hef","hefði","hafa","hafi"],"answer":"hefði"},
+        {"q":"Þýddu: 'The proposal, which was controversial, was rejected by the committee'","type":"text","answer":"Tillagan, sem var umdeild, var felld af nefndinni"},
+        {"q":"Veldu: Hvað þýðir 'til trosss fyrir' (til tross fyrir) í formlegu máli?","type":"mc","options":["despite the fact that","because","so that","before"],"answer":"despite the fact that"},
+        {"q":"Þýddu: 'She would rather we had told her the truth'","type":"text","answer":"Hún vildi frekar að við hefðum sagt henni sannleikann"},
+        {"q":"Veldu rétt: Hann var beðinn ___ skjölin fyrir mánudag.","type":"mc","options":["um að skila","að skila","um skila","til að skila"],"answer":"um að skila"},
+        {"q":"Þýddu: 'They are used to working under pressure'","type":"text","answer":"Þau eru vön að vinna undir þrýstingi"},
+        {"q":"Veldu: Hvaða samtenging innleiðir orsök?","type":"mc","options":["vegna þess að","þótt","ef","meðan"],"answer":"vegna þess að"},
+        {"q":"Þýddu: 'I doubt whether the plan will succeed'","type":"text","answer":"Ég efast um hvort áætlunin muni ná árangri"},
+        {"q":"Veldu rétt orðröð: Í aukasetningu kemur sagnorðið venjulega hvar?","type":"mc","options":["aftast","fyrst","miðja","fyrir framan frumlag"],"answer":"aftast"},
+        {"q":"Þýddu: 'Had they informed us earlier, we could have helped'","type":"text","answer":"Hefðu þau upplýst okkur fyrr, hefðum við getað hjálpað"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 5,
+      "questions": [
+        {"q":"Veldu rétt: Hvaða form sýnir hypotetíska aðgerð í fortíð?","type":"mc","options":["skilyrðisþátíð fullkomin (kond. perf.)","nútíð","þátíð","framtíð"],"answer":"skilyrðisþátíð fullkomin (kond. perf.)"},
+        {"q":"Þýddu: 'Despite his objections, the plan went ahead'","type":"text","answer":"Þrátt fyrir mótmæli hans hélt áætlunin áfram"},
+        {"q":"Veldu: Hvað krefst sagnorðið 'að neita' venjulega sem andlag?","type":"mc","options":["staðhæfingar","athafnar","staðar","tíma"],"answer":"staðhæfingar"},
+        {"q":"Þýddu: 'She had been hoping for a promotion for months'","type":"text","answer":"Hún hafði vonast til stöðuhækkunar í marga mánuði"},
+        {"q":"Veldu rétt forsetning: Þetta fer eftir ___ aðstæðum.","type":"mc","options":["að","í","á","með"],"answer":"að"},
+        {"q":"Þýddu: 'I would have preferred if you had told me earlier'","type":"text","answer":"Ég hefði viljað að þú hefðir sagt mér fyrr"},
+        {"q":"Veldu: Hver setning sýnir rétt notkun þolmyndar?","type":"mc","options":["Bókin var skrifuð af höfundi.","Höfundi skrifaði bókina.","Bókin skrifaði höfundurinn.","Höfundurinn var skrifaður af bókinni."],"answer":"Bókin var skrifuð af höfundi."},
+        {"q":"Þýddu: 'They claimed that the results were inconclusive'","type":"text","answer":"Þau héldu því fram að niðurstöðurnar væru ekki afgerandi"},
+        {"q":"Veldu rétt: Í formlegu máli ætti að forðast hvaða stíl?","type":"mc","options":["slangur","formlegt orðaval","skýr uppbygging","rétt málfræði"],"answer":"slangur"},
+        {"q":"Þýddu: 'If it weren't for your help, I wouldn't have finished'","type":"text","answer":"Ef það hefði ekki verið fyrir hjálpina þína, hefði ég ekki lokið"}
+      ]
+    }
+  ]
+},
+{
+  "level": 6,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 6,
+      "questions": [
+        {"q":"Þýddu: 'Had I known about the delay, I would have changed my plans'","type":"text","answer":"Hefði ég vitað um tafirnar, hefði ég breytt áætlunum mínum"},
+        {"q":"Veldu rétt: Hann sagði að hann ___ skýrslunni ef hann fengi frekari upplýsingar.","type":"mc","options":["myndi breyta","mun breyta","breytir","hef breytt"],"answer":"myndi breyta"},
+        {"q":"Þýddu: 'She had been waiting for hours before anyone answered'","type":"text","answer":"Hún hafði beðið í klukkustundir áður en einhver svaraði"},
+        {"q":"Veldu: Hvað merkir 'hlýtur að hafa' í setningunni 'Hann hlýtur að hafa misst af fundinum'?","type":"mc","options":["logical deduction","past obligation","permission","habit"],"answer":"logical deduction"},
+        {"q":"Þýddu: 'They would have completed the project if funding had been available'","type":"text","answer":"Þau hefðu lokið verkefninu ef fjármögnun hefði verið til staðar"},
+        {"q":"Veldu rétt: Í þolmynd (passive) er setningin 'Bréfið var sent í gær' dæmi um hvaða tíma?","type":"mc","options":["þátíð (preteritum)","nútíð","framtíð","lýsingarháttur"],"answer":"þátíð (preteritum)"},
+        {"q":"Þýddu: 'I regret that I did not accept the offer'","type":"text","answer":"Ég sé eftir því að ég tók ekki boðið"},
+        {"q":"Veldu: Hvaða samtenging innleiðir skilyrði sem er ósennilegt í nútíð (contrary-to-fact)?","type":"mc","options":["ef ég væri","ef ég er","þegar ég er","þótt ég sé"],"answer":"ef ég væri"},
+        {"q":"Þýddu: 'She insisted that the document be signed immediately'","type":"text","answer":"Hún krafðist þess að skjalið yrði undirritað strax"},
+        {"q":"Veldu rétt: Í óbeinni ræðu breytist 'ég kem' yfir í ___ þegar það er tilkynnt í þátíð.","type":"mc","options":["hann sagðist koma","hann sagðist koma","hann sagðist koma","hann sagðist koma"],"answer":"hann sagðist koma"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 6,
+      "questions": [
+        {"q":"Veldu rétt: Hadde ég verið í þínum sporum, ___ ég spurt um ráð.","type":"mc","options":["myndi","mun","hef","var"],"answer":"myndi"},
+        {"q":"Þýddu: 'The committee had been reviewing the proposal for months'","type":"text","answer":"Nefndin hafði verið að fara yfir tillöguna í marga mánuði"},
+        {"q":"Veldu: Hvað þýðir 'að taka eitthvað sem gefið' (to take something for granted)?","type":"mc","options":["to assume without question","to accept an invitation","to give something away","to check carefully"],"answer":"to assume without question"},
+        {"q":"Þýddu: 'If it hadn't been for her advice, I might have failed'","type":"text","answer":"Ef það hefði ekki verið fyrir ráð hennar, hefði ég mögulega mistekist"},
+        {"q":"Veldu rétt reflexív: Hann treysti ___ ekki til að taka ákvörðun.","type":"mc","options":["sér","sinn","hann","hún"],"answer":"sér"},
+        {"q":"Þýddu: 'They were required to submit the form by the deadline'","type":"text","answer":"Þau þurftu að skila eyðublaðinu fyrir frestinn"},
+        {"q":"Veldu: Hvaða háttur er oft notaður eftir 'Það er mikilvægt að'?","type":"mc","options":["sérstakur viðtengingarháttur (að + subjunktív)","indikativ","infinitiv","imperativ"],"answer":"sérstakur viðtengingarháttur (að + subjunktív)"},
+        {"q":"Þýddu: 'He claimed he had not received the notification'","type":"text","answer":"Hann hélt því fram að hann hefði ekki fengið tilkynninguna"},
+        {"q":"Veldu rétt forsetning: Þetta fer eftir þróuninni ___ næstu daga.","type":"mc","options":["á","í","um","við"],"answer":"í"},
+        {"q":"Þýddu: 'I would have preferred if you had asked first'","type":"text","answer":"Ég hefði viljað að þú hefðir spurt fyrst"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 6,
+      "questions": [
+        {"q":"Veldu rétt: Hver setning sýnir rétt notkun konjunktivs/viðtengingarháttar í formlegu samhengi?","type":"mc","options":["Það er nauðsynlegt að hann mæti.","Það er nauðsynlegt að hann mættist.","Það er nauðsynlegt að hann hafi mætt.","Það er nauðsynlegt að hann muni mæta."],"answer":"Það er nauðsynlegt að hann mæti."},
+        {"q":"Þýddu: 'She had been hoping they would reconsider the decision'","type":"text","answer":"Hún hafði vonast til að þau myndu endurskoða ákvörðunina"},
+        {"q":"Veldu: Hvað sýnir 'skuli' í formlegri tilkynningu oftast?","type":"mc","options":["tilmæli eða skylda","fyrirmæli um framtíð","villu","spurningu"],"answer":"tilmæli eða skylda"},
+        {"q":"Þýddu: 'By then, the results had already been published'","type":"text","answer":"Þá höfðu niðurstöðurnar þegar verið birtar"},
+        {"q":"Veldu rétt: Hann hagaði sér ___ eins og ekkert hefði gerst.","type":"mc","options":["eins og","vegna","til þess að","þótt"],"answer":"eins og"},
+        {"q":"Þýddu: 'They might have misunderstood the instructions'","type":"text","answer":"Þau gætu hafa misskilið leiðbeiningarnar"},
+        {"q":"Veldu: Hvaða form er notað til að tjá hypotetíska afleiðingu í fortíð (counterfactual past)?","type":"mc","options":["kondisjonalis perfekt","presens","futurum","preteritum"],"answer":"kondisjonalis perfekt"},
+        {"q":"Þýddu: 'The proposal, had it been accepted, would have changed policy'","type":"text","answer":"Tillagan, hefði hún verið samþykkt, hefði breytt stefnu"},
+        {"q":"Veldu rétt orðröð: Í aðalsetningu með atviksorði fremst kemur sagnorðið venjulega hvar?","type":"mc","options":["í öðru sæti","fyrst","síðast","miðja"],"answer":"í öðru sæti"},
+        {"q":"Þýddu: 'I wish I had told you earlier'","type":"text","answer":"Ég vildi að ég hefði sagt þér fyrr"}
+      ]
+    }
+  ]
+},
+{
+  "level": 7,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 7,
+      "questions": [
+        {"q":"Þýddu: 'Had I been informed earlier, I would have intervened'","type":"text","answer":"Hefði mér verið tilkynnt fyrr, hefði ég gripið inn í"},
+        {"q":"Veldu rétt: Hann sagði að hann ___ skjölin fyrir fundinn.","type":"mc","options":["hafði sent","hafi sent","hefði sent","mun hafa sent"],"answer":"hefði sent"},
+        {"q":"Þýddu: 'She had been considering the offer for weeks'","type":"text","answer":"Hún hafði verið að íhuga tilboðið í vikur"},
+        {"q":"Veldu: Hvað merkir 'að leggja áherslu á' í formlegu samhengi?","type":"mc","options":["to emphasize","to ignore","to postpone","to summarize"],"answer":"to emphasize"},
+        {"q":"Þýddu: 'They were accused of having breached the contract'","type":"text","answer":"Þau voru ásökuð um að hafa brotið samninginn"},
+        {"q":"Veldu rétt forsetning: Þetta er mikilvægt ___ samhengi málsins.","type":"mc","options":["í","fyrir","um","við"],"answer":"í"},
+        {"q":"Þýddu: 'I would rather you had not mentioned it'","type":"text","answer":"Ég hefði frekar viljað að þú hefðir ekki nefnt það"},
+        {"q":"Veldu: Hvaða háttur er krafinn eftir 'Það er nauðsynlegt að'?","type":"mc","options":["viðtengingarháttur (að + subjunktív)","indikativ","infinitiv","boðháttur"],"answer":"viðtengingarháttur (að + subjunktív)"},
+        {"q":"Þýddu: 'By then, several options had already been explored'","type":"text","answer":"Þá höfðu nokkrar leiðir þegar verið kannaðar"},
+        {"q":"Veldu rétt: Í setningu sem byrjar með 'af því að', kemur sagnorðið venjulega hvar í aukasetningu?","type":"mc","options":["aftast","fyrst","miðja","fyrir framan frumlag"],"answer":"aftast"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 7,
+      "questions": [
+        {"q":"Veldu rétt: Hefði ég vitað um afleiðingarnar, ___ ég hagað mér öðruvísi.","type":"mc","options":["myndi","myndi hafa","hefði","mun"],"answer":"myndi"},
+        {"q":"Þýddu: 'The committee recommended that the policy be revised'","type":"text","answer":"Nefndin mælti með að stefna yrði endurskoðuð"},
+        {"q":"Veldu: Hvað þýðir idiomið 'að taka með fyrirvara'?","type":"mc","options":["to treat with skepticism","to accept fully","to celebrate","to forget"],"answer":"to treat with skepticism"},
+        {"q":"Þýddu: 'She claimed she had been misled by the figures'","type":"text","answer":"Hún hélt því fram að tölurnar hefðu villt hana sýn"},
+        {"q":"Veldu rétt: Í formlegri ritun ætti að forðast hvaða setningagerð?","type":"mc","options":["of flókna setningagerð","skýr og hnitmiðuð","nákvæm tilvísun","rétt málfræði"],"answer":"of flókna setningagerð"},
+        {"q":"Þýddu: 'If it weren't for his support, the project would have failed'","type":"text","answer":"Ef það hefði ekki verið fyrir stuðning hans, hefði verkefnið mistekist"},
+        {"q":"Veldu: Hvaða háttur eða form er algengastur í hypotetískum setningum á íslensku?","type":"mc","options":["konditionalis / subjunktív","imperativ","indikativ","infinitiv"],"answer":"konditionalis / subjunktív"},
+        {"q":"Þýddu: 'They had been debating the proposal until late at night'","type":"text","answer":"Þau höfðu verið að ræða tillöguna fram á nótt"},
+        {"q":"Veldu rétt forsetning: Þetta er í andstöðu ___ okkar stefnu.","type":"mc","options":["við","á","til","af"],"answer":"við"},
+        {"q":"Þýddu: 'I doubt that the amendment will be accepted'","type":"text","answer":"Ég efast um að breytingin verði samþykkt"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 7,
+      "questions": [
+        {"q":"Veldu rétt: Hver setning sýnir rétt notkun þolmyndar í fullkomnu tíð?","type":"mc","options":["Ákvörðunin hefur verið tekin af stjórninni.","Stjórnin tók ákvörðunina.","Ákvörðunin tók stjórnina.","Stjórnin hefur tekið ákvörðunina."],"answer":"Ákvörðunin hefur verið tekin af stjórninni."},
+        {"q":"Þýddu: 'She insisted that they had no alternative but to comply'","type":"text","answer":"Hún hélt því fram að þau hefðu engan annan kost en að hlíta"},
+        {"q":"Veldu: Hvað merkir 'þrátt fyrir að' í akademísku samhengi?","type":"mc","options":["kontrast þrátt fyrir staðreyndir","orsök","tilgangur","tímasetning"],"answer":"kontrast þrátt fyrir staðreyndir"},
+        {"q":"Þýddu: 'Had the evidence been stronger, the verdict might have differed'","type":"text","answer":"Hafi sönnunargögnin verið sterkari, hefði dómurinn hugsanlega orðið annar"},
+        {"q":"Veldu rétt relativt fornafn fyrir formlega setningu: '___ málið var rætt'","type":"mc","options":["sem","hvaða","hvers","hvar"],"answer":"sem"},
+        {"q":"Þýddu: 'They were reported to have reached a preliminary agreement'","type":"text","answer":"Fram kom að þau hefðu náð bráðabirgðasamkomulagi"},
+        {"q":"Veldu: Hvaða samsetning er rétt fyrir kontrafaktíska fortíð?","type":"mc","options":["ef + plúskvamperfekt + kondisjonalis perfekt","ef + presens + futurum","þegar + indikativ","þótt + indikativ"],"answer":"ef + plúskvamperfekt + kondisjonalis perfekt"},
+        {"q":"Þýddu: 'I would have preferred that the committee had consulted us first'","type":"text","answer":"Ég hefði viljað að nefndin hefði leitað til okkar fyrst"},
+        {"q":"Veldu rétt: Í formlegri skýrslu ætti að forðast hvaða stíl?","type":"mc","options":["persónulega fyrstu persónu án rökstuðnings","hlutlæga og hlutlausa framsetningu","tilvísanir í heimildir","skýr skilgreining á hugtökum"],"answer":"persónulega fyrstu persónu án rökstuðnings"},
+        {"q":"Þýddu: 'If the proposal had been implemented, it would have affected many departments'","type":"text","answer":"Ef tillagan hefði verið innleidd, hefði hún haft áhrif á margar deildir"}
+      ]
+    }
+  ]
+},
+{
+  "level": 8,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 8,
+      "questions": [
+        {"q":"Þýddu: 'Had the committee known the facts, the recommendation would have been different'","type":"text","answer":"Hafði nefndin vitað staðreyndirnar, hefði tillagan verið önnur"},
+        {"q":"Veldu rétt: Hann hélt því fram að hann ___ skjölin fyrir frestinn.","type":"mc","options":["hafði sent","hafi sent","mun hafa sent","hefur sent"],"answer":"hafði sent"},
+        {"q":"Þýddu: 'She had been advocating the change for months'","type":"text","answer":"Hún hafði barist fyrir breytingunni í marga mánuði"},
+        {"q":"Veldu: Hvað merkir 'þrátt fyrir að' í formlegu máli?","type":"mc","options":["despite the fact that","because","in order to","before"],"answer":"despite the fact that"},
+        {"q":"Þýddu: 'They were required to provide documentation upon request'","type":"text","answer":"Þau voru skylt að leggja fram skjöl við beiðni"},
+        {"q":"Veldu rétt forsetning: Þetta er í samræmi ___ stefnu stofnunarinnar.","type":"mc","options":["við","við","við","við"],"answer":"við"},
+        {"q":"Þýddu: 'I would have expected a more thorough review'","type":"text","answer":"Ég hefði gert ráð fyrir ítarlegri yfirferð"},
+        {"q":"Veldu: Hver formgerð er rétt fyrir óbeina skipun í fortíð?","type":"mc","options":["hann ba um að það yrði gert","hann ba um að það gert væri","hann ba um að gert væri það","hann ba um að gert væri"],"answer":"hann ba um að það yrði gert"},
+        {"q":"Þýddu: 'The proposal, had it been implemented, might have reduced costs'","type":"text","answer":"Tillagan, hefði hún verið innleidd, hefði hugsanlega dregið úr kostnaði"},
+        {"q":"Veldu rétt: Í aukasetningu með 'vegna þess að' kemur sagnorðið venjulega hvar?","type":"mc","options":["aftast","fyrst","miðja","fyrir framan frumlag"],"answer":"aftast"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 8,
+      "questions": [
+        {"q":"Veldu rétt: Ef við ___ fyrr, hefðum við forðast vandann.","type":"mc","options":["hefðum vitað","vissum","vituðum","hefðum vitað ekki"],"answer":"hefðum vitað"},
+        {"q":"Þýddu: 'She insisted on clarification before signing the agreement'","type":"text","answer":"Hún krafðist skýringa áður en hún skrifaði undir samninginn"},
+        {"q":"Veldu: Hvað þýðir 'að leggja eitthvað til hliðar' í formlegu samhengi?","type":"mc","options":["to set something aside for later consideration","to discard permanently","to hide","to summarize"],"answer":"to set something aside for later consideration"},
+        {"q":"Þýddu: 'They had been consulting external experts for advice'","type":"text","answer":"Þau höfðu leitað til utanaðkomandi sérfræðinga um ráðgjöf"},
+        {"q":"Veldu rétt: Hver konjunktjón innleiðir mögulega skilyrði?","type":"mc","options":["ef","þótt","vegna","meðan"],"answer":"ef"},
+        {"q":"Þýddu: 'I doubt whether the amendment will pass the vote'","type":"text","answer":"Ég efast um hvort breytingin fái samþykki í atkvæðagreiðslu"},
+        {"q":"Veldu: Hvaða stíll hentar best í formlegri skýrslu?","type":"mc","options":["nákvæmur og hlutlægur","uformlegur og persónulegur","tilfinningaríkur","slangur"],"answer":"nákvæmur og hlutlægur"},
+        {"q":"Þýddu: 'Had they consulted us, we could have offered alternatives'","type":"text","answer":"Hefðu þau leitað til okkar, hefðum við getað boðið upp á aðrar lausnir"},
+        {"q":"Veldu rétt pronomen: Þetta er skýrsla ___ við vitnuðum í inngangi.","type":"mc","options":["sem","hvaða","hvers","hvar"],"answer":"sem"},
+        {"q":"Þýddu: 'The document must be submitted no later than Friday'","type":"text","answer":"Skjalið skal skilað eigi síðar en föstudag"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 8,
+      "questions": [
+        {"q":"Veldu rétt: Hver setning sýnir rétt notkun þolmyndar í fullkomnu tíð?","type":"mc","options":["Úrskurðurinn hefur verið kveðinn upp af dómstólum.","Dómstólar kveð upp úrskurðinn.","Úrskurðurinn kveð dómstólar.","Dómstólar hafa kveðið upp úrskurðinn."],"answer":"Úrskurðurinn hefur verið kveðinn upp af dómstólum."},
+        {"q":"Þýddu: 'She regretted not having raised the issue earlier'","type":"text","answer":"Hún iðraðist þess að hafa ekki tekið málið upp fyrr"},
+        {"q":"Veldu: Hvað merkir 'skuli' í formlegum texta oftast?","type":"mc","options":["tilmæli eða skylda","spurning","tilviljun","tilgangur"],"answer":"tilmæli eða skylda"},
+        {"q":"Þýddu: 'They might have overlooked a crucial detail'","type":"text","answer":"Þau gætu hafa horft framhjá mikilvægu atriði"},
+        {"q":"Veldu rétt: Hver formgerð tjáir óvissu á formlegan hátt?","type":"mc","options":["gæti hafa + perfekt","presens indikativ","imperativ","infinitiv"],"answer":"gæti hafa + perfekt"},
+        {"q":"Þýddu: 'If it had not been for the evidence, the case would have been dismissed'","type":"text","answer":"Ef það hefði ekki verið fyrir sönnunargögnin, hefði málið verið fellt niður"},
+        {"q":"Veldu: Hvaða setning byggir rétt upp kontrafaktíska fortíð?","type":"mc","options":["Ef þau hefðu vitað, hefðu þau brugðist öðruvísi.","Ef þau vita, munu þau breyta sér.","Þegar þau vissu, breyttu þau sér.","Þótt þau viti, breyttu þau sér."],"answer":"Ef þau hefðu vitað, hefðu þau brugðist öðruvísi."},
+        {"q":"Þýddu: 'The report, which had been peer-reviewed, contained several recommendations'","type":"text","answer":"Skýrslan, sem hafði verið fagfellefturð, innihélt nokkrar tillögur"},
+        {"q":"Veldu rétt forsetning: Þetta er ekki í samræmi ___ fyrri stefnu.","type":"mc","options":["við","af","til","með"],"answer":"við"},
+        {"q":"Þýddu: 'I would have expected clearer justification for the decision'","type":"text","answer":"Ég hefði gert ráð fyrir skýrari rökstuðningi fyrir ákvörðuninni"}
+      ]
+    }
+  ]
+},
+{
+  "level": 9,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 9,
+      "questions": [
+        {"q":"Þýddu: 'Had the board been informed earlier, different measures might have been taken'","type":"text","answer":"Hafi stjórninni verið tilkynnt fyrr, hefðu aðrar ráðstafanir hugsanlega verið gerðar"},
+        {"q":"Veldu rétt: Hann hélt því fram að skýrslan ___ vandlega áður en hún var birt.","type":"mc","options":["hafi verið yfirfarin","hafi verið yfirfarið","var yfirfarin","hefur verið yfirfarin"],"answer":"hafi verið yfirfarin"},
+        {"q":"Þýddu: 'She had been advocating stricter standards for several years'","type":"text","answer":"Hún hafði barist fyrir strangari stöðlum í mörg ár"},
+        {"q":"Veldu: Hvað merkir 'þrátt fyrir' í akademískri framsetningu?","type":"mc","options":["despite","because of","in order to","as a result of"],"answer":"despite"},
+        {"q":"Þýddu: 'They were alleged to have breached the confidentiality agreement'","type":"text","answer":"Það var haldið fram að þau hefðu brotið trúnaðarsamninginn"},
+        {"q":"Veldu rétt forsetning: Þetta er í andstöðu ___ viðurkenndra verklagsreglna.","type":"mc","options":["við","á","til","með"],"answer":"við"},
+        {"q":"Þýddu: 'I would have expected a more comprehensive justification'","type":"text","answer":"Ég hefði gert ráð fyrir fyllri röksemdarfærslu"},
+        {"q":"Veldu: Hver háttur er krafinn eftir 'Það er mikilvægt að' í formlegu samhengi?","type":"mc","options":["viðtengingarháttur (að + subjunktív)","indikativ","infinitiv","boðháttur"],"answer":"viðtengingarháttur (að + subjunktív)"},
+        {"q":"Þýddu: 'By the time the inquiry concluded, several hypotheses had been discarded'","type":"text","answer":"Þegar rannsókninni lauk höfðu nokkrar tilgátur verið hafnað"},
+        {"q":"Veldu rétt: Í kontrafaktískri setningu í fortíð er algengasta samsetningin hvaða?","type":"mc","options":["plúskvamperfekt + kondisjonalis perfekt","presens + futurum","preteritum + presens","infinitiv + perfektum"],"answer":"plúskvamperfekt + kondisjonalis perfekt"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 9,
+      "questions": [
+        {"q":"Veldu rétt: Hefðum við ___ fyrr, hefðum við forðast þessa stöðu.","type":"mc","options":["haft samband","haft samband við","haft samband við hann","haft samband við hana"],"answer":"haft samband við"},
+        {"q":"Þýddu: 'The committee recommended that the policy be revised and implemented promptly'","type":"text","answer":"Nefndin mælti með að stefna yrði endurskoðuð og innleidd án tafar"},
+        {"q":"Veldu: Hvað þýðir 'að leggja áherslu á' í formlegu samhengi?","type":"mc","options":["to emphasize","to ignore","to postpone","to summarize"],"answer":"to emphasize"},
+        {"q":"Þýddu: 'They had been consulting external advisors before finalizing the draft'","type":"text","answer":"Þau höfðu leitað til utanaðkomandi ráðgjafa áður en drögin voru lokið"},
+        {"q":"Veldu rétt: Hver konjunktjón innleiðir skilyrði sem getur orðið að veruleika?","type":"mc","options":["ef","þótt","vegna","meðan"],"answer":"ef"},
+        {"q":"Þýddu: 'I doubt that the amendment will secure majority support'","type":"text","answer":"Ég efast um að breytingin muni tryggja meirihlutastuðning"},
+        {"q":"Veldu: Hvaða stíll hentar best í fagfellevurderðri grein?","type":"mc","options":["nákvæmur og hlutlægur","uformlegur og persónulegur","tilfinningaríkur","slangur"],"answer":"nákvæmur og hlutlægur"},
+        {"q":"Þýddu: 'Had they sought our input, we could have proposed viable alternatives'","type":"text","answer":"Hefðu þau leitað til okkar hefðum við getað lagt fram raunhæfar aðrar lausnir"},
+        {"q":"Veldu rétt pronomen: Þetta er sú greining ___ við vísað var í innganginum.","type":"mc","options":["sem","hvaða","hvers","hvar"],"answer":"sem"},
+        {"q":"Þýddu: 'The deadline must be observed to ensure procedural fairness'","type":"text","answer":"Fresturinn verður að vera virtur til að tryggja málsmeðferðarréttlæti"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 9,
+      "questions": [
+        {"q":"Veldu rétt: Hver setning sýnir rétt notkun þolmyndar í formlegu máli?","type":"mc","options":["Ákvörðunin var tekin af stjórninni.","Stjórnin tók ákvörðunina.","Ákvörðunin tók stjórnina.","Stjórnin hefur tekið ákvörðunina."],"answer":"Ákvörðunin var tekin af stjórninni."},
+        {"q":"Þýddu: 'She regretted not having raised the methodological concerns earlier'","type":"text","answer":"Hún iðraðist þess að hún hafði ekki vakið athygli á aðferðafræðilegum áhyggjum fyrr"},
+        {"q":"Veldu: Hvað merkir 'hlýtur að hafa' í setningunni 'Þau hlýtur að hafa misst af tilkynningunni'?","type":"mc","options":["logical deduction","past obligation","permission","habit"],"answer":"logical deduction"},
+        {"q":"Þýddu: 'They were reported to have reached a tentative agreement pending further review'","type":"text","answer":"Fram kom að þau hefðu náð bráðabirgðasamkomulagi sem væri háð frekari endurskoðun"},
+        {"q":"Veldu rétt: Í formlegri röksemdarfærslu ætti að forðast hvaða aðferð?","type":"mc","options":["ad hominem-árásir","rökstuðning byggðan á gögnum","skýra skilgreiningu hugtaka","heimildavísanir"],"answer":"ad hominem-árásir"},
+        {"q":"Þýddu: 'If it had not been for the new evidence, the conclusion would have stood'","type":"text","answer":"Ef það hefði ekki verið fyrir nýju sönnunargögnin, hefði niðurstaðan staðið óbreytt"},
+        {"q":"Veldu: Hver samsetning tjáir kontrafaktíska fortíð rétt?","type":"mc","options":["ef + plúskvamperfekt + kondisjonalis perfekt","ef + presens + futurum","þegar + indikativ","þótt + indikativ"],"answer":"ef + plúskvamperfekt + kondisjonalis perfekt"},
+        {"q":"Þýddu: 'The report, which had undergone peer review, included several caveats'","type":"text","answer":"Skýrslan, sem hafði farið í gegnum fagfelleftirlit, innihélt nokkur fyrirvara"},
+        {"q":"Veldu rétt forsetning: Þetta er ekki í samræmi ___ alþjóðlegra viðmiða.","type":"mc","options":["við","af","til","með"],"answer":"við"},
+        {"q":"Þýddu: 'I would have preferred that the committee had consulted external experts first'","type":"text","answer":"Ég hefði viljað að nefndin hefði leitað til utanaðkomandi sérfræðinga fyrst"}
+      ]
+    }
+  ]
+},
+{
+  "level": 10,
+  "quizzes": [
+    {
+      "title": "Quiz A",
+      "level": 10,
+      "questions": [
+        {"q":"Þýddu: 'Had the evidence been conclusive, the committee would have reached a different conclusion'","type":"text","answer":"Hafi sönnunargögnin verið afgerandi, hefði nefndin komist að annarri niðurstöðu"},
+        {"q":"Veldu rétt: Í formlegri setningu er réttast að skrifa 'Það er mikilvægt að hún ___ til fundar'.","type":"mc","options":["mætir","mæti","var mætt","mun mæta"],"answer":"mæti"},
+        {"q":"Þýddu: 'They were alleged to have acted in breach of fiduciary duties'","type":"text","answer":"Það var haldið fram að þau hefðu brotið gegn trúnaðar- og ábyrgðarskyldum"},
+        {"q":"Veldu: Hver samsetning tjáir best kontrafaktíska fortíð á íslensku?","type":"mc","options":["Hefði + plúskvamperfekt + hefði + kondisjonalis perfekt","Ef + presens + futurum","Þegar + preteritum + presens","Þótt + indikativ"],"answer":"Hefði + plúskvamperfekt + hefði + kondisjonalis perfekt"},
+        {"q":"Þýddu: 'The proposal, which had been subject to extensive review, still contained unresolved issues'","type":"text","answer":"Tillagan, sem hafði verið undirgengist ítarlegri yfirferð, innihélt enn óleyst mál"},
+        {"q":"Veldu rétt forsetning: Þetta er ekki í samræmi ___ gildandi verklagi.","type":"mc","options":["við","af","til","með"],"answer":"við"},
+        {"q":"Þýddu: 'I would have expected the rationale to be more thoroughly documented'","type":"text","answer":"Ég hefði gert ráð fyrir að rökstuðningurinn væri skráður mun ítarlegar"},
+        {"q":"Veldu: Hvaða háttur er oft krafinn eftir 'Það er nauðsynlegt að' í formlegum texta?","type":"mc","options":["viðtengingarháttur (að + subjunktív)","indikativ","infinitiv","boðháttur"],"answer":"viðtengingarháttur (að + subjunktív)"},
+        {"q":"Þýddu: 'Had they disclosed the conflict of interest, the outcome might have been different'","type":"text","answer":"Hefðu þau upplýst um hagsmunaáreksturinn, hefði niðurstaðan hugsanlega orðið önnur"},
+        {"q":"Veldu rétt: Í flóknum aukasetningum kemur sagnorðið venjulega hvar?","type":"mc","options":["aftast","fyrst","miðja","fyrir framan frumlag"],"answer":"aftast"}
+      ]
+    },
+    {
+      "title": "Quiz B",
+      "level": 10,
+      "questions": [
+        {"q":"Þýddu: 'The report, having been peer-reviewed, nevertheless left several methodological caveats'","type":"text","answer":"Skýrslan, eftir að hafa farið í gegnum fagfelleftirlit, skildi þó eftir sig nokkur aðferðafræðileg fyrirvara"},
+        {"q":"Veldu rétt: Hver setning sýnir rétt notkun þolmyndar í fullkomnu tíð?","type":"mc","options":["Ákvörðunin hefur verið staðfest af stjórninni.","Stjórnin staðfesti ákvörðunina.","Ákvörðunin staðfesti stjórninni.","Stjórnin hefur staðfest ákvörðunina."],"answer":"Ákvörðunin hefur verið staðfest af stjórninni."},
+        {"q":"Þýddu: 'They contended that the interpretation was inconsistent with established precedent'","type":"text","answer":"Þau héldu því fram að túlkunin væri ósamrýmanleg við viðurkennda fordæmi"},
+        {"q":"Veldu: Hvað merkir 'hlýtur að hafa' í setningunni 'Hann hlýtur að hafa misst af tilkynningunni'?","type":"mc","options":["rökleg ályktun","fortíðarskylda","leyfi","vana"],"answer":"rökleg ályktun"},
+        {"q":"Þýddu: 'If it had not been for the mitigating circumstances, the sanction would have been harsher'","type":"text","answer":"Ef það hefði ekki verið fyrir formildandi aðstæður, hefði refsingin verið harðari"},
+        {"q":"Veldu rétt: Hvaða samtenging innleiðir orsök í formlegri röksemd?","type":"mc","options":["vegna þess að","þótt","ef","meðan"],"answer":"vegna þess að"},
+        {"q":"Þýddu: 'I would have preferred that the committee had sought independent advice'","type":"text","answer":"Ég hefði viljað að nefndin hefði leitað sjálfstæðrar ráðgjafar"},
+        {"q":"Veldu: Hvaða stíll er æskilegur í formlegri úttekt?","type":"mc","options":["hlutlægur, nákvæmur og ópersónulegur","tilfinningaríkur og persónulegur","slangur og óformlegur","retórískur og tilfinningaríkur"],"answer":"hlutlægur, nákvæmur og ópersónulegur"},
+        {"q":"Þýddu: 'Had the amendment been adopted, it would have required substantial procedural changes'","type":"text","answer":"Hefði breytingin verið samþykkt, hefði hún krafist verulegra breytinga á verklagi"},
+        {"q":"Veldu rétt pronomen: Þetta er sú greining ___ við vísað var í innganginum.","type":"mc","options":["sem","hvaða","hvers","hvar"],"answer":"sem"}
+      ]
+    },
+    {
+      "title": "Quiz C",
+      "level": 10,
+      "questions": [
+        {"q":"Veldu rétt: Hver af eftirfarandi setningum er formlega rétt til að tjá áskorun eða ábending í skýrslu?","type":"mc","options":["Það er ráðlagt að nefndin endurskoði ferlið.","Ég mæli með að nefndin endurskoði ferlið.","Þú ættir að endurskoða ferlið.","Við verðum að endurskoða ferlið núna."],"answer":"Það er ráðlagt að nefndin endurskoði ferlið."},
+        {"q":"Þýddu: 'Had the risks been properly assessed, the mitigation plan would have been more robust'","type":"text","answer":"Hefðu áhættur verið metnar rétt, hefði afbótaráætlunin verið traustari"},
+        {"q":"Veldu: Hvað ætti að forðast í akademískri röksemdarfærslu?","type":"mc","options":["óstaðfestar alhæfingar","skýrar skilgreiningar","heimildavísanir","gagnrýna greiningu"],"answer":"óstaðfestar alhæfingar"},
+        {"q":"Þýddu: 'I would have expected the minutes to reflect the substantive debate'","type":"text","answer":"Ég hefði gert ráð fyrir að fundargerðin endurspeglu efnislega umræðuna"},
+        {"q":"Veldu rétt: Hver samsetning tjáir kontrafaktíska fortíð á formlegan hátt?","type":"mc","options":["Hefði + plúskvamperfekt + hefði + kondisjonalis perfekt","Ef + presens + futurum","Þegar + preteritum + presens","Þótt + indikativ"],"answer":"Hefði + plúskvamperfekt + hefði + kondisjonalis perfekt"},
+        {"q":"Þýddu: 'The document, which had been revised several times, still required editorial clarification'","type":"text","answer":"Skjalið, sem hafði verið endurskoðað mörgum sinnum, þurfti enn ritstílalega skýringu"},
+        {"q":"Veldu: Hver er rétt notkun forsetningarinnar í 'í samræmi ___ alþjóðlegra viðmiða'?","type":"mc","options":["við","af","til","með"],"answer":"við"},
+        {"q":"Þýddu: 'In retrospect, I should have raised these concerns earlier'","type":"text","answer":"Í eftirsjá hefði ég átt að koma þessum áhyggjum á framfæri fyrr"},
+        {"q":"Veldu rétt: Hver af eftirfarandi setningum er best fallin til að loka formlegri skýrslu?","type":"mc","options":["Niðurstaðan bendir til frekari rannsóknar.","Ég held að við ættum að rannsaka þetta meira.","Við verðum að gera eitthvað.","Þetta er allt sem ég hef að segja."],"answer":"Niðurstaðan bendir til frekari rannsóknar."},
+        {"q":"Þýddu: 'Had the committee consulted external experts first, the recommendations might have been different'","type":"text","answer":"Hefði nefndin leitað til utanaðkomandi sérfræðinga fyrst, hefðu tillögurnar hugsanlega orðið aðrar"}
+      ]
+    }
+  ]
+}
+]
+}

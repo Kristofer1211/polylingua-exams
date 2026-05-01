@@ -1,0 +1,545 @@
+{
+  "language": "Spanish",
+  "levels": [
+    {
+      "level": 1,
+      "quizzes": [
+        {
+          "title": "Quiz A",
+          "level": 1,
+          "questions": [
+            {"q":"¿Cómo se dice 'Good morning' en español?","type":"mc","options":["Buenos días","Buenas noches","Hola","Adiós"],"answer":"Buenos días"},
+            {"q":"Elige la forma correcta: Yo ___ en Madrid.","type":"mc","options":["vivo","vive","vives","vivimos"],"answer":"vivo"},
+            {"q":"Traduce: 'I am hungry'","type":"text","answer":"Tengo hambre"},
+            {"q":"Completa: ¿___ años tienes?","type":"mc","options":["Cuántos","Cuánto","Qué","Quién"],"answer":"Cuántos"},
+            {"q":"Traduce: 'I don't understand'","type":"text","answer":"No entiendo"},
+            {"q":"Elige: ¿Cómo se responde a '¿Cómo estás?'","type":"mc","options":["Bien, gracias","Adiós","Por favor","Hasta luego"],"answer":"Bien, gracias"},
+            {"q":"Traduce: 'See you later'","type":"text","answer":"Hasta luego"},
+            {"q":"Elige la palabra correcta: La manzana es ___.","type":"mc","options":["roja","rojo","rojas","rojos"],"answer":"roja"},
+            {"q":"Traduce: 'My name is Ana'","type":"text","answer":"Me llamo Ana"},
+            {"q":"Elige: ¿Cuál es el número '7' en español?","type":"mc","options":["siete","seis","ocho","nueve"],"answer":"siete"}
+          ]
+        },
+        {
+          "title": "Quiz B",
+          "level": 1,
+          "questions": [
+            {"q":"Elige: ¿Puedes ___ la ventana?","type":"mc","options":["abrir","abres","abriendo","abierto"],"answer":"abrir"},
+            {"q":"Traduce: 'Where is the bus stop?'","type":"text","answer":"¿Dónde está la parada de autobús?"},
+            {"q":"Elige la forma correcta: Ellos ___ café.","type":"mc","options":["beben","bebo","bebes","bebía"],"answer":"beben"},
+            {"q":"Traduce: 'I like apples'","type":"text","answer":"Me gustan las manzanas"},
+            {"q":"Elige: ¿Cómo se dice 'Thank you'?","type":"mc","options":["Gracias","Perdón","Hola","Sí"],"answer":"Gracias"},
+            {"q":"Traduce: 'Excuse me'","type":"text","answer":"Perdón"},
+            {"q":"Elige la forma correcta: Tú ___ muy rápido.","type":"mc","options":["corres","corre","corremos","corren"],"answer":"corres"},
+            {"q":"Traduce: 'I have two brothers'","type":"text","answer":"Tengo dos hermanos"},
+            {"q":"Elige: ¿Qué significa 'libro'?","type":"mc","options":["book","pen","table","chair"],"answer":"book"},
+            {"q":"Traduce: 'I live in a house'","type":"text","answer":"Vivo en una casa"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 1,
+          "questions": [
+            {"q":"Traduce: 'We live near the city'","type":"text","answer":"Vivimos cerca de la ciudad"},
+            {"q":"Completa: Mañana ___ al médico.","type":"mc","options":["voy","fui","iba","iré"],"answer":"voy"},
+            {"q":"Traduce: 'I want to learn more Spanish'","type":"text","answer":"Quiero aprender más español"},
+            {"q":"Elige: ¿Cuál es el saludo formal para la noche?","type":"mc","options":["Buenas noches","Buenos días","Buenas tardes","Hola"],"answer":"Buenas noches"},
+            {"q":"Traduce: 'She is my friend'","type":"text","answer":"Ella es mi amiga"},
+            {"q":"Elige la palabra correcta: El gato está ___ la mesa.","type":"mc","options":["debajo de","encima de","entre","sobre"],"answer":"encima de"},
+            {"q":"Traduce: 'I need water'","type":"text","answer":"Necesito agua"},
+            {"q":"Elige: ¿Cómo se dice 'Please'?","type":"mc","options":["Por favor","Gracias","Perdón","De nada"],"answer":"Por favor"},
+            {"q":"Traduce: 'They are students'","type":"text","answer":"Ellos son estudiantes"},
+            {"q":"Elige: ¿Qué significa 'mañana' en inglés?","type":"mc","options":["tomorrow","yesterday","today","morning"],"answer":"tomorrow"}
+          ]
+        }
+      ]
+    },
+
+    {
+      "level": 2,
+      "quizzes": [
+        {
+          "title": "Quiz A",
+          "level": 2,
+          "questions": [
+            {"q":"Traduce: 'She needs help'","type":"text","answer":"Ella necesita ayuda"},
+            {"q":"Elige: ¿Qué hora es? Son las ___ de la tarde.","type":"mc","options":["tres","mañana","ayer","noche"],"answer":"tres"},
+            {"q":"Traduce: 'I have to study today'","type":"text","answer":"Tengo que estudiar hoy"},
+            {"q":"Elige la forma correcta: Nosotros ___ al cine el sábado.","type":"mc","options":["vamos","fuimos","iremos","vamos a"],"answer":"vamos"},
+            {"q":"Traduce: 'Can you repeat, please?'","type":"text","answer":"¿Puedes repetir, por favor?"},
+            {"q":"Elige: ¿Cuál es el plural de 'papel'?","type":"mc","options":["papeles","papel","papeleses","papela"],"answer":"papeles"},
+            {"q":"Traduce: 'I work every day'","type":"text","answer":"Trabajo todos los días"},
+            {"q":"Elige: ¿Cómo se forma una pregunta en pasado simple?","type":"mc","options":["¿Fuiste tú?","¿Vas tú?","¿Irás tú?","¿Vas a ir?"],"answer":"¿Fuiste tú?"},
+            {"q":"Traduce: 'Where did you buy it?'","type":"text","answer":"¿Dónde lo compraste?"},
+            {"q":"Elige: Completa: Ella ___ la carta ayer.","type":"mc","options":["escribió","escribe","escribía","escribirá"],"answer":"escribió"}
+          ]
+        },
+        {
+          "title": "Quiz B",
+          "level": 2,
+          "questions": [
+            {"q":"Traduce: 'I will call you later'","type":"text","answer":"Te llamaré más tarde"},
+            {"q":"Elige: ¿Cuál es la forma correcta de 'to eat' en primera persona plural?","type":"mc","options":["comemos","como","comes","comen"],"answer":"comemos"},
+            {"q":"Traduce: 'He doesn't like fish'","type":"text","answer":"A él no le gusta el pescado"},
+            {"q":"Elige: ¿Qué palabra completa: Voy ___ la tienda?","type":"mc","options":["a","en","por","con"],"answer":"a"},
+            {"q":"Traduce: 'I bought a ticket'","type":"text","answer":"Compré un billete"},
+            {"q":"Elige: ¿Cómo se dice 'often' en español?","type":"mc","options":["a menudo","rara vez","siempre","nunca"],"answer":"a menudo"},
+            {"q":"Traduce: 'She is older than me'","type":"text","answer":"Ella es mayor que yo"},
+            {"q":"Elige: ¿Cuál es el pronombre de objeto directo para 'la' (fem.)?","type":"mc","options":["la","lo","le","les"],"answer":"la"},
+            {"q":"Traduce: 'I need to buy bread'","type":"text","answer":"Necesito comprar pan"},
+            {"q":"Elige: ¿Qué significa 'ayer'?","type":"mc","options":["yesterday","today","tomorrow","now"],"answer":"yesterday"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 2,
+          "questions": [
+            {"q":"Traduce: 'We went to the market'","type":"text","answer":"Fuimos al mercado"},
+            {"q":"Elige: Completa: Ella ___ muy contenta ayer.","type":"mc","options":["estuvo","está","estaba","estará"],"answer":"estuvo"},
+            {"q":"Traduce: 'Do you understand me?'","type":"text","answer":"¿Me entiendes?"},
+            {"q":"Elige: ¿Cuál es la forma correcta de 'to have' (tener) en segunda persona singular?","type":"mc","options":["tienes","tiene","tenemos","tienen"],"answer":"tienes"},
+            {"q":"Traduce: 'I saw a movie last night'","type":"text","answer":"Vi una película anoche"},
+            {"q":"Elige: ¿Qué preposición se usa para indicar destino?","type":"mc","options":["a","de","con","por"],"answer":"a"},
+            {"q":"Traduce: 'She called me'","type":"text","answer":"Ella me llamó"},
+            {"q":"Elige: ¿Cuál es el femenino de 'actor'?","type":"mc","options":["actriz","actora","actores","actrizs"],"answer":"actriz"},
+            {"q":"Traduce: 'I don't remember'","type":"text","answer":"No recuerdo"},
+            {"q":"Elige: ¿Qué significa 'pronto' en este contexto: 'Vuelvo pronto'?","type":"mc","options":["soon","late","never","always"],"answer":"soon"}
+          ]
+        }
+      ]
+    },
+
+    {
+      "level": 3,
+      "quizzes": [
+        {
+          "title": "Quiz A",
+          "level": 3,
+          "questions": [
+            {"q":"Traduce: 'I used to live in Barcelona'","type":"text","answer":"Vivía en Barcelona"},
+            {"q":"Elige: ¿Cuál es el pretérito perfecto de 'comer' (yo)?","type":"mc","options":["he comido","comí","comía","había comido"],"answer":"he comido"},
+            {"q":"Traduce: 'She had already left'","type":"text","answer":"Ella ya se había ido"},
+            {"q":"Elige: ¿Cuál es el pronombre reflexivo para 'nosotros'?","type":"mc","options":["nos","se","me","te"],"answer":"nos"},
+            {"q":"Traduce: 'They were studying when I arrived'","type":"text","answer":"Estaban estudiando cuando llegué"},
+            {"q":"Elige: Completa con objeto directo: ¿Viste ___ película? (la película)","type":"mc","options":["la","lo","le","las"],"answer":"la"},
+            {"q":"Traduce: 'I forgot my keys'","type":"text","answer":"Olvidé mis llaves"},
+            {"q":"Elige: ¿Qué tiempo expresa una acción habitual en el pasado?","type":"mc","options":["imperfecto","pretérito","futuro","condicional"],"answer":"imperfecto"},
+            {"q":"Traduce: 'We had dinner at eight'","type":"text","answer":"Cenamos a las ocho"},
+            {"q":"Elige: ¿Cuál es la forma correcta: 'Mientras yo ___, él leía.'","type":"mc","options":["cocinaba","cociné","cocinaré","cocina"],"answer":"cocinaba"}
+          ]
+        },
+        {
+          "title": "Quiz B",
+          "level": 3,
+          "questions": [
+            {"q":"Traduce: 'I prefer tea to coffee'","type":"text","answer":"Prefiero el té al café"},
+            {"q":"Elige: ¿Cuál es la forma correcta de 'haber' en pluscuamperfecto (yo)?","type":"mc","options":["había","he","hube","habré"],"answer":"había"},
+            {"q":"Traduce: 'She told me the truth'","type":"text","answer":"Ella me dijo la verdad"},
+            {"q":"Elige: ¿Qué pronombre sustituye a 'a Juan y a María'?","type":"mc","options":["les","los","las","le"],"answer":"les"},
+            {"q":"Traduce: 'I was reading a book'","type":"text","answer":"Estaba leyendo un libro"},
+            {"q":"Elige: ¿Cuál es el participio pasado de 'escribir'?","type":"mc","options":["escrito","escribido","escribo","escribía"],"answer":"escrito"},
+            {"q":"Traduce: 'They had finished before noon'","type":"text","answer":"Habían terminado antes del mediodía"},
+            {"q":"Elige: ¿Qué conjunción introduce una causa?","type":"mc","options":["porque","aunque","cuando","si"],"answer":"porque"},
+            {"q":"Traduce: 'I used to go there every summer'","type":"text","answer":"Iba allí cada verano"},
+            {"q":"Elige: ¿Cuál es la forma correcta: 'Si yo ___ tiempo, viajaría.'","type":"mc","options":["tuviera","tengo","tuve","tendré"],"answer":"tuviera"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 3,
+          "questions": [
+            {"q":"Elige: ¿Cuál es la forma correcta de 'decir' en pretérito (él)?","type":"mc","options":["dijo","decía","dice","dirá"],"answer":"dijo"},
+            {"q":"Traduce: 'I couldn't find my wallet'","type":"text","answer":"No pude encontrar mi cartera"},
+            {"q":"Elige: ¿Qué indica el pretérito imperfecto?","type":"mc","options":["acción habitual en el pasado","acción puntual","futuro","mandato"],"answer":"acción habitual en el pasado"},
+            {"q":"Traduce: 'She used to sing every day'","type":"text","answer":"Ella cantaba todos los días"},
+            {"q":"Elige: Completa: Cuando era niño, ___ mucho.","type":"mc","options":["jugaba","jugué","jugaré","juego"],"answer":"jugaba"},
+            {"q":"Traduce: 'I had already eaten'","type":"text","answer":"Ya había comido"},
+            {"q":"Elige: ¿Cuál es el pronombre de objeto indirecto para 'me'?","type":"mc","options":["me","te","le","nos"],"answer":"me"},
+            {"q":"Traduce: 'They told us a story'","type":"text","answer":"Nos contaron una historia"},
+            {"q":"Elige: ¿Qué tiempo se usa para acciones completadas en el pasado?","type":"mc","options":["pretérito perfecto simple","imperfecto","futuro","condicional"],"answer":"pretérito perfecto simple"},
+            {"q":"Traduce: 'I was walking when it started to rain'","type":"text","answer":"Estaba caminando cuando empezó a llover"}
+          ]
+        }
+      ]
+    },
+
+    {
+      "level": 4,
+      "quizzes": [
+        {
+          "title": "Quiz A",
+          "level": 4,
+          "questions": [
+            {"q":"Traduce: 'Tomorrow I will travel to Madrid'","type":"text","answer":"Mañana viajaré a Madrid"},
+            {"q":"Elige: ¿Cuál es la forma correcta del condicional: 'Yo ___ (ir) si pudiera'?","type":"mc","options":["iría","voy","fui","iré"],"answer":"iría"},
+            {"q":"Traduce: 'If I had money, I would buy a car'","type":"text","answer":"Si tuviera dinero, compraría un coche"},
+            {"q":"Elige: ¿Qué preposición se usa para expresar finalidad?","type":"mc","options":["para","por","con","sin"],"answer":"para"},
+            {"q":"Traduce: 'I will have finished by then'","type":"text","answer":"Habré terminado para entonces"},
+            {"q":"Elige: ¿Cuál es la forma imperativa de 'hablar' (tú)?","type":"mc","options":["habla","hablares","hablaste","hablarás"],"answer":"habla"},
+            {"q":"Traduce: 'We would like to reserve a table'","type":"text","answer":"Nos gustaría reservar una mesa"},
+            {"q":"Elige: ¿Qué significa 'aunque'?","type":"mc","options":["although","because","before","after"],"answer":"although"},
+            {"q":"Traduce: 'He promised to call'","type":"text","answer":"Prometió llamar"},
+            {"q":"Elige: Completa: Es importante que tú ___ (estudiar).","type":"mc","options":["estudies","estudias","estudiaste","estudiarás"],"answer":"estudies"}
+          ]
+        },
+        {
+          "title": "Quiz B",
+          "level": 4,
+          "questions": [
+            {"q":"Traduce: 'I would have gone if I had known'","type":"text","answer":"Habría ido si hubiera sabido"},
+            {"q":"Elige: ¿Cuál es la diferencia entre 'por' y 'para'?","type":"mc","options":["por indica causa; para finalidad","por indica finalidad; para causa","son sinónimos","ninguna"],"answer":"por indica causa; para finalidad"},
+            {"q":"Traduce: 'She asked that he arrive early'","type":"text","answer":"Ella pidió que él llegara temprano"},
+            {"q":"Elige: ¿Qué tiempo se usa para hipótesis en el presente?","type":"mc","options":["subjuntivo","indicativo","imperativo","condicional"],"answer":"subjuntivo"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 4,
+          "questions": [
+            {"q":"Traduce: 'By the time you arrive, I will have left'","type":"text","answer":"Para cuando llegues, me habré ido"},
+            {"q":"Elige: ¿Cuál es la forma correcta del subjuntivo presente (yo) de 'tener'?","type":"mc","options":["tenga","tengo","tuve","tendré"],"answer":"tenga"},
+            {"q":"Traduce: 'He would speak if he had the chance'","type":"text","answer":"Hablaría si tuviera la oportunidad"},
+            {"q":"Elige: ¿Qué marca el uso de 'se' pasivo?","type":"mc","options":["acción impersonal o pasiva","posesión","tiempo futuro","negación"],"answer":"acción impersonal o pasiva"},
+            {"q":"Traduce: 'I suggest that we leave now'","type":"text","answer":"Sugiero que nos vayamos ahora"},
+            {"q":"Elige: ¿Cuál es la forma correcta: 'Es posible que ella ___ (venir)'?","type":"mc","options":["venga","viene","vino","vendrá"],"answer":"venga"},
+            {"q":"Traduce: 'They would have finished earlier'","type":"text","answer":"Habrían terminado antes"},
+            {"q":"Elige: ¿Qué conjunción introduce una condición real?","type":"mc","options":["si","aunque","porque","cuando"],"answer":"si"},
+            {"q":"Traduce: 'I insist that he apologize'","type":"text","answer":"Insisto en que él se disculpe"},
+            {"q":"Elige: Completa: Es mejor que tú ___ (decir) la verdad.","type":"mc","options":["digas","dices","dijiste","dirás"],"answer":"digas"}
+          ]
+        }
+      ]
+    },
+
+    {
+      "level": 5,
+      "quizzes": [
+        {
+          "title": "Quiz A",
+          "level": 5,
+          "questions": [
+            {"q":"Traduce: 'I doubt that he has finished'","type":"text","answer":"Dudo que él haya terminado"},
+            {"q":"Elige: ¿Cuál es el uso de 'haber de' en español?","type":"mc","options":["obligación/expectativa","pasado compuesto","negación","condicional"],"answer":"obligación/expectativa"},
+            {"q":"Traduce: 'Although it rained, we went out'","type":"text","answer":"Aunque llovió, salimos"},
+            {"q":"Elige: ¿Qué diferencia hay entre 'saber' y 'conocer'?","type":"mc","options":["saber: información; conocer: familiaridad","son iguales","saber: personas; conocer: hechos","ninguna"],"answer":"saber: información; conocer: familiaridad"},
+            {"q":"Traduce: 'I have been studying Spanish for three years'","type":"text","answer":"He estado estudiando español durante tres años"},
+            {"q":"Elige: ¿Cuál es el participio irregular de 'abrir'?","type":"mc","options":["abierto","abrido","abrío","abrierto"],"answer":"abierto"},
+            {"q":"Traduce: 'If I had known, I would have told you'","type":"text","answer":"Si lo hubiera sabido, te lo habría dicho"},
+            {"q":"Elige: ¿Qué indica 'aunque' cuando va seguido de subjuntivo?","type":"mc","options":["concesión hipotética","causa","tiempo futuro","condición real"],"answer":"concesión hipotética"},
+            {"q":"Traduce: 'She had already eaten when I arrived'","type":"text","answer":"Ella ya había comido cuando llegué"},
+            {"q":"Elige: Es improbable que ellos ___ (venir) hoy.","type":"mc","options":["vengan","vienen","vinieron","vendrán"],"answer":"vengan"}
+          ]
+        },
+        {
+          "title": "Quiz B",
+          "level": 5,
+          "questions": [
+            {"q":"Traduce: 'I wish I had more time'","type":"text","answer":"Ojalá tuviera más tiempo"},
+            {"q":"Elige: ¿Cuál es la forma correcta del condicional perfecto (yo)?","type":"mc","options":["habría hecho","hube hecho","había hecho","he hecho"],"answer":"habría hecho"},
+            {"q":"Traduce: 'They had already left by the time we arrived'","type":"text","answer":"Ya se habían ido cuando llegamos"},
+            {"q":"Elige: ¿Qué pronombre relativo usarías para referirte a una cosa con preposición?","type":"mc","options":["la que","quien","cuyo","donde"],"answer":"la que"},
+            {"q":"Traduce: 'I regret that I didn't go'","type":"text","answer":"Lamento no haber ido"},
+            {"q":"Elige: No creo que él ___ (decir) la verdad.","type":"mc","options":["diga","dice","dijo","dirá"],"answer":"diga"},
+            {"q":"Traduce: 'We would have helped if we had known'","type":"text","answer":"Habríamos ayudado si hubiéramos sabido"},
+            {"q":"Elige: ¿Qué marca el uso de 'por' en 'por la mañana'?","type":"mc","options":["parte del día","dirección","causa","finalidad"],"answer":"parte del día"},
+            {"q":"Traduce: 'She seems to be tired'","type":"text","answer":"Parece estar cansada"},
+            {"q":"Elige: Antes de que tú ___ (llegar), yo ya me fui.","type":"mc","options":["llegaras","llegaste","llegas","llegarás"],"answer":"llegaras"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 5,
+          "questions": [
+            {"q":"Traduce: 'It's necessary that everyone participate'","type":"text","answer":"Es necesario que todos participen"},
+            {"q":"Elige: ¿Cuál es la voz pasiva de 'El comité aprobó la propuesta'?","type":"mc","options":["La propuesta fue aprobada por el comité","La propuesta aprobó el comité","El comité fue aprobado","Aprobó la propuesta el comité"],"answer":"La propuesta fue aprobada por el comité"},
+            {"q":"Traduce: 'I had been living there for five years'","type":"text","answer":"Había estado viviendo allí durante cinco años"},
+            {"q":"Elige: ¿Qué indica 'aunque' con indicativo?","type":"mc","options":["hecho real","hipótesis","deseo","condición"],"answer":"hecho real"},
+            {"q":"Traduce: 'He insisted that she apologize'","type":"text","answer":"Insistió en que ella se disculpara"},
+            {"q":"Elige: Si yo ___ (tener) tiempo, vendría.","type":"mc","options":["tuviera","tengo","tuve","tendré"],"answer":"tuviera"},
+            {"q":"Traduce: 'They must have left already'","type":"text","answer":"Deben haber salido ya"},
+            {"q":"Elige: ¿Qué conjunción introduce finalidad?","type":"mc","options":["para que","porque","aunque","cuando"],"answer":"para que"},
+            {"q":"Traduce: 'I hope that you have a good trip'","type":"text","answer":"Espero que tengas un buen viaje"},
+            {"q":"Elige: Es mejor que tú no ___ (decir) nada.","type":"mc","options":["digas","dices","dijiste","dirás"],"answer":"digas"}
+          ]
+        }
+      ]
+    },
+
+    {
+      "level": 6,
+      "quizzes": [
+        {
+          "title": "Quiz A",
+          "level": 6,
+          "questions": [
+            {"q":"Traduce: 'If I had known, I would have acted differently'","type":"text","answer":"Si lo hubiera sabido, habría actuado de manera diferente"},
+            {"q":"Elige: ¿Cuál es el pretérito pluscuamperfecto de subjuntivo de 'tener' (yo)?","type":"mc","options":["hubiera tenido","había tenido","hube tenido","habría tenido"],"answer":"hubiera tenido"},
+            {"q":"Traduce: 'They would have been able to come'","type":"text","answer":"Habrían podido venir"},
+            {"q":"Elige: ¿Qué marca el uso de 'cuyo'?","type":"mc","options":["posesión relativa","tiempo","lugar","modo"],"answer":"posesión relativa"},
+            {"q":"Traduce: 'It is unlikely that he will accept'","type":"text","answer":"Es improbable que él acepte"},
+            {"q":"Elige: ¿Cuál es la forma correcta de 'haber' en condicional perfecto (ellos)?","type":"mc","options":["habrían","habrían habido","habían","hubieran"],"answer":"habrían"},
+            {"q":"Traduce: 'Reported speech: He said he had seen it'","type":"text","answer":"Dijo que lo había visto"},
+            {"q":"Elige: ¿Qué estructura se usa para expresar obligación en pasado?","type":"mc","options":["tenía que + infinitivo","tengo que + infinitivo","tendré que + infinitivo","tuve que + infinitivo"],"answer":"tenía que + infinitivo"},
+            {"q":"Traduce: 'They had been speaking for an hour'","type":"text","answer":"Habían estado hablando durante una hora"},
+            {"q":"Elige: Ojalá que él ___ (haber) venido.","type":"mc","options":["hubiera","hubiese","hubo","habrá"],"answer":"hubiera"}
+          ]
+        },
+        {
+          "title": "Quiz B",
+          "level": 6,
+          "questions": [
+            {"q":"Traduce: 'I would have told you if I had known'","type":"text","answer":"Te lo habría dicho si lo hubiera sabido"},
+            {"q":"Elige: ¿Cuál es la diferencia entre 'ser' y 'estar' en pasiva?","type":"mc","options":["ser para pasiva verdadera; estar para estado/resultante","son iguales","estar para identidad; ser para ubicación","ninguna"],"answer":"ser para pasiva verdadera; estar para estado/resultante"},
+            {"q":"Traduce: 'She would have studied more if she had time'","type":"text","answer":"Habría estudiado más si hubiera tenido tiempo"},
+            {"q":"Elige: ¿Qué indica 'a fin de que' seguido de subjuntivo?","type":"mc","options":["finalidad","causa","tiempo","condición"],"answer":"finalidad"},
+            {"q":"Traduce: 'He behaves as if he were the owner'","type":"text","answer":"Se comporta como si fuera el dueño"},
+            {"q":"Elige: Si él ___ (haber) venido, lo habríamos sabido.","type":"mc","options":["hubiera","hubiese","hubo","habrá"],"answer":"hubiera"},
+            {"q":"Traduce: 'They had already been married for ten years'","type":"text","answer":"Ya llevaban diez años casados"},
+            {"q":"Elige: ¿Qué pronombre relativo se usa tras preposición 'con'?","type":"mc","options":["el que","que","cuyo","donde"],"answer":"el que"},
+            {"q":"Traduce: 'I wish you had told me earlier'","type":"text","answer":"Ojalá me lo hubieras dicho antes"},
+            {"q":"Elige: Era necesario que ellos ___ (llegar) a tiempo.","type":"mc","options":["llegaran","llegaron","llegan","llegarán"],"answer":"llegaran"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 6,
+          "questions": [
+            {"q":"Traduce: 'If he had studied, he would have passed'","type":"text","answer":"Si hubiera estudiado, habría aprobado"},
+            {"q":"Elige: ¿Qué marca el uso de 'por' en 'por culpa de'?","type":"mc","options":["causa negativa","finalidad","dirección","tiempo"],"answer":"causa negativa"},
+            {"q":"Traduce: 'They had been living there before the war'","type":"text","answer":"Habían vivido allí antes de la guerra"},
+            {"q":"Elige: ¿Cuál es el subjuntivo imperfecto de 'ir' (yo)?","type":"mc","options":["fuera","voyera","iba","iría"],"answer":"fuera"},
+            {"q":"Traduce: 'He would have told us if he had known'","type":"text","answer":"Nos lo habría dicho si lo hubiera sabido"},
+            {"q":"Elige: ¿Qué estructura introduce una consecuencia hipotética?","type":"mc","options":["si + pluscuamperfecto + condicional perfecto","si + presente + futuro","cuando + indicativo","aunque + subjuntivo"],"answer":"si + pluscuamperfecto + condicional perfecto"},
+            {"q":"Traduce: 'They had already left when we arrived'","type":"text","answer":"Ya se habían ido cuando llegamos"},
+            {"q":"Elige: ¿Qué significa 'a pesar de que' con indicativo?","type":"mc","options":["contraste real","finalidad","causa","condición"],"answer":"contraste real"},
+            {"q":"Traduce: 'I would have liked to meet her'","type":"text","answer":"Me habría gustado conocerla"},
+            {"q":"Elige: Si yo ___ (saber) la verdad, no habría venido.","type":"mc","options":["hubiera sabido","sabía","supo","sabré"],"answer":"hubiera sabido"}
+          ]
+        }
+      ]
+    },
+
+    {
+      "level": 7,
+      "quizzes": [
+        {
+          "title": "Quiz A",
+          "level": 7,
+          "questions": [
+            {"q":"Traduce: 'It's essential that the committee reach a decision'","type":"text","answer":"Es esencial que el comité tome una decisión"},
+            {"q":"Elige: ¿Cuál es el uso de 'siempre que' + subjuntivo?","type":"mc","options":["condición","tiempo","causa","concesión"],"answer":"condición"},
+            {"q":"Traduce: 'He acts as though nothing had happened'","type":"text","answer":"Actúa como si no hubiera pasado nada"},
+            {"q":"Elige: ¿Qué diferencia hay entre 'aunque' y 'aun cuando'?","type":"mc","options":["matices de certeza; ambos pueden introducir concesión","son idénticos","uno es coloquial y otro formal","ninguna"],"answer":"matices de certeza; ambos pueden introducir concesión"},
+            {"q":"Traduce: 'I would rather you didn't tell him'","type":"text","answer":"Preferiría que no se lo dijeras"},
+            {"q":"Elige: No es que yo ___ (querer) molestar.","type":"mc","options":["quiera","quiero","quise","querré"],"answer":"quiera"},
+            {"q":"Traduce: 'They had been discussing the proposal for hours'","type":"text","answer":"Habían estado discutiendo la propuesta durante horas"},
+            {"q":"Elige: ¿Qué marca 'por más que' + subjuntivo?","type":"mc","options":["concesión hipotética","causa","finalidad","tiempo"],"answer":"concesión hipotética"},
+            {"q":"Traduce: 'I doubt whether he will come'","type":"text","answer":"Dudo que venga"},
+            {"q":"Elige: Buscaban a alguien que ___ (hablar) francés.","type":"mc","options":["hablara","hablaba","habló","hablará"],"answer":"hablara"}
+          ]
+        },
+        {
+          "title": "Quiz B",
+          "level": 7,
+          "questions": [
+            {"q":"Traduce: 'He suggested that we postpone the meeting'","type":"text","answer":"Sugirió que pospusiéramos la reunión"},
+            {"q":"Elige: ¿Qué uso tiene 'cualquiera que' + subjuntivo?","type":"mc","options":["indefinición/hipótesis","negación","tiempo","causa"],"answer":"indefinición/hipótesis"},
+            {"q":"Traduce: 'If only I had known earlier'","type":"text","answer":"Ojalá lo hubiera sabido antes"},
+            {"q":"Elige: Aunque él ___ (decir) la verdad, no le creerían.","type":"mc","options":["dijera","dice","dijo","dirá"],"answer":"dijera"},
+            {"q":"Traduce: 'They would have been surprised'","type":"text","answer":"Habrían estado sorprendidos"},
+            {"q":"Elige: ¿Qué conjunción introduce finalidad con subjuntivo?","type":"mc","options":["para que","porque","aunque","cuando"],"answer":"para que"},
+            {"q":"Traduce: 'He behaves as if he knew everything'","type":"text","answer":"Se comporta como si supiera todo"},
+           {"q":"Elige: ¿Cuál es el pluscuamperfecto de subjuntivo (yo) de 'hacer'?","type":"mc","options":["hubiera hecho","había hecho","hube hecho","habría hecho"],"answer":"hubiera hecho"},
+            {"q":"Traduce: 'They had been working for hours'","type":"text","answer":"Habían estado trabajando durante horas"},
+            {"q":"Elige: ¿Qué conjunción introduce una condición hipotética?","type":"mc","options":["si","aunque","porque","cuando"],"answer":"si"},
+            {"q":"Traduce: 'I wish they had arrived earlier'","type":"text","answer":"Ojalá hubieran llegado antes"},
+            {"q":"Elige: ¿Cuál es el uso de 'por más que' + subjuntivo?","type":"mc","options":["concesión hipotética","causa","finalidad","tiempo"],"answer":"concesión hipotética"},
+            {"q":"Traduce: 'He acted as if he had known everything'","type":"text","answer":"Actuó como si lo hubiera sabido todo"},
+            {"q":"Elige: ¿Qué pronombre relativo se usa tras preposición en registro formal?","type":"mc","options":["el cual","que","quien","cuyo"],"answer":"el cual"},
+            {"q":"Traduce: 'They would have helped if they had been able'","type":"text","answer":"Habrían ayudado si hubieran podido"},
+            {"q":"Elige: Completa: Era improbable que ellos ___ (haber) terminado.","type":"mc","options":["hubieran","habían","hubo","habrán"],"answer":"hubieran"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 7,
+          "questions": [
+            {"q":"Traduce: 'He speaks as if he had lived there'","type":"text","answer":"Habla como si hubiera vivido allí"},
+            {"q":"Elige: ¿Qué indica 'por más que' con indicativo?","type":"mc","options":["concesión real","finalidad","causa","condición"],"answer":"concesión real"},
+            {"q":"Traduce: 'They would have complained if they had known'","type":"text","answer":"Se habrían quejado si lo hubieran sabido"},
+            {"q":"Elige: ¿Cuál es la función de 'cuyo'?","type":"mc","options":["indicar posesión","indicar tiempo","indicar lugar","indicar modo"],"answer":"indicar posesión"},
+            {"q":"Traduce: 'I wish you had told me the truth'","type":"text","answer":"Ojalá me hubieras dicho la verdad"},
+            {"q":"Elige: ¿Qué tiempo se usa para acciones irreales del pasado?","type":"mc","options":["pluscuamperfecto de subjuntivo + condicional perfecto","pretérito","futuro","imperfecto"],"answer":"pluscuamperfecto de subjuntivo + condicional perfecto"},
+            {"q":"Traduce: 'She acts as though she owned the place'","type":"text","answer":"Actúa como si fuera la dueña del lugar"},
+            {"q":"Elige: Si yo ___ (poder), lo haría.","type":"mc","options":["pudiera","puedo","pude","podré"],"answer":"pudiera"},
+            {"q":"Traduce: 'They had been negotiating for months'","type":"text","answer":"Habían estado negociando durante meses"},
+            {"q":"Elige: Buscamos a alguien que ___ (saber) programar.","type":"mc","options":["sepa","sabe","sabía","sabrá"],"answer":"sepa"}
+          ]
+        }
+      ]
+    },
+
+    {
+      "level": 8,
+      "quizzes": [
+        {
+          "title": "Quiz A",
+          "level": 8,
+          "questions": [
+            {"q":"Traduce: 'Had he known, he would have acted differently'","type":"text","answer":"Si lo hubiera sabido, habría actuado de forma diferente"},
+            {"q":"Elige: ¿Qué marca el uso de 'aun cuando' + subjuntivo?","type":"mc","options":["concesión hipotética","causa","finalidad","tiempo"],"answer":"concesión hipotética"},
+            {"q":"Traduce: 'She said she would arrive late'","type":"text","answer":"Dijo que llegaría tarde"},
+            {"q":"Elige: ¿Cuál es la diferencia entre 'aunque' + indicativo y 'aunque' + subjuntivo?","type":"mc","options":["indicativo: hecho real; subjuntivo: hipotético","son iguales","indicativo: deseo; subjuntivo: certeza","ninguna"],"answer":"indicativo: hecho real; subjuntivo: hipotético"},
+            {"q":"Traduce: 'I regret that you couldn't come'","type":"text","answer":"Lamento que no pudieras venir"},
+            {"q":"Elige: ¿Qué estructura enfatiza una acción completada?","type":"mc","options":["haber + participio","estar + gerundio","ir a + infinitivo","tener que + infinitivo"],"answer":"haber + participio"},
+            {"q":"Traduce: 'They would have been surprised to see him'","type":"text","answer":"Habrían estado sorprendidos de verlo"},
+            {"q":"Elige: ¿Qué conjunción introduce consecuencia?","type":"mc","options":["por lo tanto","aunque","si","cuando"],"answer":"por lo tanto"},
+            {"q":"Traduce: 'I doubt that he will accept the proposal'","type":"text","answer":"Dudo que acepte la propuesta"},
+            {"q":"Elige: Era necesario que ella ___ (haber) terminado antes.","type":"mc","options":["hubiera","hubiese","había","habrá"],"answer":"hubiera"}
+          ]
+        },
+        {
+          "title": "Quiz B",
+          "level": 8,
+          "questions": [
+            {"q":"Traduce: 'He acts as if he had all the answers'","type":"text","answer":"Actúa como si tuviera todas las respuestas"},
+            {"q":"Elige: ¿Qué uso tiene 'por más que' + indicativo?","type":"mc","options":["concesión real","finalidad","causa","condición"],"answer":"concesión real"},
+            {"q":"Traduce: 'They had been preparing the report for weeks'","type":"text","answer":"Habían estado preparando el informe durante semanas"},
+            {"q":"Elige: No creo que ellos ___ (haber) terminado.","type":"mc","options":["hayan","han","habían","hubieran"],"answer":"hayan"},
+            {"q":"Traduce: 'I would rather you had told me earlier'","type":"text","answer":"Preferiría que me lo hubieras dicho antes"},
+            {"q":"Elige: ¿Qué pronombre relativo usarías tras 'con' para personas?","type":"mc","options":["con quien","que","cuyo","donde"],"answer":"con quien"},
+            {"q":"Traduce: 'She behaves as though nothing matters'","type":"text","answer":"Se comporta como si nada importara"},
+            {"q":"Elige: ¿Qué tiempo expresa anterioridad en subjuntivo?","type":"mc","options":["pluscuamperfecto de subjuntivo","pretérito","imperfecto","futuro"],"answer":"pluscuamperfecto de subjuntivo"},
+            {"q":"Traduce: 'They must have misunderstood'","type":"text","answer":"Deben haber entendido mal"},
+            {"q":"Elige: Buscábamos a alguien que ___ (poder) trabajar los fines de semana.","type":"mc","options":["pudiera","puede","podía","podrá"],"answer":"pudiera"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 8,
+          "questions": [
+            {"q":"Traduce: 'If only he had told us, we could have helped'","type":"text","answer":"Si tan solo nos lo hubiera dicho, podríamos haber ayudado"},
+            {"q":"Elige: ¿Qué indica 'a menos que' + subjuntivo?","type":"mc","options":["condición negativa","causa","tiempo","finalidad"],"answer":"condición negativa"},
+            {"q":"Traduce: 'They said they had been waiting'","type":"text","answer":"Dijeron que habían estado esperando"},
+            {"q":"Elige: Es posible que él ___ (haber) terminado.","type":"mc","options":["haya","ha","había","hubiera"],"answer":"haya"},
+            {"q":"Traduce: 'I would have preferred if you had told me'","type":"text","answer":"Habría preferido que me lo hubieras dicho"},
+            {"q":"Elige: ¿Qué estructura expresa hipótesis contraria a los hechos?","type":"mc","options":["si + pluscuamperfecto + condicional perfecto","si + presente + futuro","cuando + indicativo","aunque + subjuntivo"],"answer":"si + pluscuamperfecto + condicional perfecto"},
+            {"q":"Traduce: 'They had been discussing alternatives'","type":"text","answer":"Habían estado discutiendo alternativas"},
+            {"q":"Elige: ¿Qué conjunción introduce concesión con subjuntivo?","type":"mc","options":["aunque","porque","para que","si"],"answer":"aunque"},
+            {"q":"Traduce: 'I doubt that they will agree'","type":"text","answer":"Dudo que estén de acuerdo"},
+            {"q":"Elige: Era improbable que ella ___ (poder) asistir.","type":"mc","options":["pudiera","puede","pudo","podrá"],"answer":"pudiera"}
+          ]
+        }
+      ]
+    },
+
+    {
+      "level": 9,
+      "quizzes": [
+        {
+          "title": "Quiz A",
+          "level": 9,
+          "questions": [
+            {"q":"Traduce: 'Had he realized the consequences, he might have acted otherwise'","type":"text","answer":"Si hubiera comprendido las consecuencias, podría haber actuado de otra manera"},
+            {"q":"Elige: ¿Qué matiz aporta 'siquiera' en 'no dijo siquiera hola'?","type":"mc","options":["énfasis de negación","afirmación","tiempo","cantidad"],"answer":"énfasis de negación"},
+            {"q":"Traduce: 'She claimed she had never seen him'","type":"text","answer":"Afirmó que nunca lo había visto"},
+            {"q":"Elige: ¿Cuál es la función de 'por más que' + subjuntivo?","type":"mc","options":["concesión hipotética","causa","tiempo","condición"],"answer":"concesión hipotética"},
+            {"q":"Traduce: 'I would rather you had not mentioned it'","type":"text","answer":"Preferiría que no lo hubieras mencionado"},
+            {"q":"Elige: ¿Qué uso tiene 'si no fuera porque'?","type":"mc","options":["introduce excepción o condición","marca tiempo","marca finalidad","marca causa"],"answer":"introduce excepción o condición"},
+            {"q":"Traduce: 'They had been debating the proposal for months'","type":"text","answer":"Habían estado debatiendo la propuesta durante meses"},
+            {"q":"Elige: ¿Qué pronombre relativo es más formal para personas?","type":"mc","options":["el cual","que","quien","cuyo"],"answer":"el cual"},
+            {"q":"Traduce: 'I suspect that he has ulterior motives'","type":"text","answer":"Sospecho que tiene motivos ocultos"},
+            {"q":"Elige: No hay nadie que ___ (poder) resolverlo tan rápido.","type":"mc","options":["pueda","puede","pudo","podrá"],"answer":"pueda"}
+          ]
+        },
+        {
+          "title": "Quiz B",
+          "level": 9,
+          "questions": [
+            {"q":"Traduce: 'If only they had listened, things would be different now'","type":"text","answer":"Si tan solo hubieran escuchado, las cosas serían diferentes ahora"},
+            {"q":"Elige: ¿Qué diferencia aporta 'aunque' + subjuntivo en registro formal?","type":"mc","options":["concesión hipotética","causa","tiempo","finalidad"],"answer":"concesión hipotética"},
+            {"q":"Traduce: 'He pretended as if nothing had happened'","type":"text","answer":"Fingió como si no hubiera pasado nada"},
+            {"q":"Elige: No es que yo no ___ (querer), es que no puedo.","type":"mc","options":["quiera","quiero","quise","querré"],"answer":"quiera"},
+            {"q":"Traduce: 'They must have misunderstood the instructions'","type":"text","answer":"Deben haber malinterpretado las instrucciones"},
+            {"q":"Elige: ¿Qué estructura enfatiza contraste en escritura académica?","type":"mc","options":["sin embargo","porque","para que","ya que"],"answer":"sin embargo"},
+            {"q":"Traduce: 'I would have preferred that you had told me earlier'","type":"text","answer":"Habría preferido que me lo hubieras dicho antes"},
+            {"q":"Elige: ¿Qué pronombre relativo expresa posesión?","type":"mc","options":["cuyo","que","quien","el que"],"answer":"cuyo"},
+            {"q":"Traduce: 'They had been working under difficult conditions'","type":"text","answer":"Habían estado trabajando en condiciones difíciles"},
+            {"q":"Elige: Era imprescindible que él ___ (haber) firmado el documento.","type":"mc","options":["hubiera","hubiese","había","habrá"],"answer":"hubiera"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 9,
+          "questions": [
+            {"q":"Traduce: 'He acts as though he had no responsibilities'","type":"text","answer":"Actúa como si no tuviera responsabilidades"},
+            {"q":"Elige: ¿Qué matiz aporta 'ni siquiera' en una frase negativa?","type":"mc","options":["énfasis de exclusión","afirmación","tiempo","cantidad"],"answer":"énfasis de exclusión"},
+            {"q":"Traduce: 'They claimed they had been misinformed'","type":"text","answer":"Afirmaron que habían sido mal informados"},
+            {"q":"Elige: Aunque él ___ (decir) lo contrario, no le creeré.","type":"mc","options":["dijera","dice","dijo","dirá"],"answer":"dijera"},
+            {"q":"Traduce: 'I would rather you had stayed home'","type":"text","answer":"Preferiría que te hubieras quedado en casa"},
+            {"q":"Elige: ¿Qué estructura introduce una hipótesis remota?","type":"mc","options":["si + pluscuamperfecto + condicional perfecto","si + presente + futuro","cuando + indicativo","aunque + subjuntivo"],"answer":"si + pluscuamperfecto + condicional perfecto"},
+            {"q":"Traduce: 'They had been negotiating terms for weeks'","type":"text","answer":"Habían estado negociando los términos durante semanas"},
+            {"q":"Elige: ¿Qué conjunción introduce concesión literaria?","type":"mc","options":["si bien","porque","para que","cuando"],"answer":"si bien"},
+            {"q":"Traduce: 'I suspect they will refuse'","type":"text","answer":"Sospecho que rechazarán"},
+            {"q":"Elige: No existe nadie que ___ (poder) resolverlo sin ayuda.","type":"mc","options":["pueda","puede","pudo","podrá"],"answer":"pueda"}
+          ]
+        }
+      ]
+    },
+
+   {
+   "level": 10,
+   "quizzes": [
+       {
+          "title": "Quiz A",
+          "level": 10,
+          "questions": [
+            {"q":"Traduce: 'Had he been aware of the implications, he might have acted differently'","type":"text","answer":"Si hubiera sido consciente de las implicaciones, podría haber actuado de forma diferente"},
+            {"q":"Elige: ¿Qué matiz aporta 'por más que' + subjuntivo en registro culto?","type":"mc","options":["concesión enfática","causa","finalidad","tiempo"],"answer":"concesión enfática"},
+            {"q":"Traduce: 'She insisted that they had no alternative'","type":"text","answer":"Insistió en que no tenían alternativa"},
+            {"q":"Elige: ¿Cuál es la función de 'siquiera' en 'no dijo siquiera una palabra'?","type":"mc","options":["subrayar la ausencia total","afirmar","indicar tiempo","indicar cantidad"],"answer":"subrayar la ausencia total"},
+            {"q":"Traduce: 'I would have preferred that the decision had been different'","type":"text","answer":"Habría preferido que la decisión hubiera sido diferente"},
+            {"q":"Elige: ¿Qué estructura expresa condición contraria a los hechos?","type":"mc","options":["si + pluscuamperfecto de subjuntivo + condicional perfecto","si + presente + futuro","cuando + indicativo","aunque + subjuntivo"],"answer":"si + pluscuamperfecto de subjuntivo + condicional perfecto"},
+            {"q":"Traduce: 'They had been collaborating on the project for years'","type":"text","answer":"Habían estado colaborando en el proyecto durante años"},
+            {"q":"Elige: ¿Qué pronombre relativo es más apropiado tras preposición en registro formal?","type":"mc","options":["el cual","que","quien","cuyo"],"answer":"el cual"},
+            {"q":"Traduce: 'I doubt that the proposal will be accepted'","type":"text","answer":"Dudo que la propuesta sea aceptada"},
+            {"q":"Elige: Era imprescindible que todos ___ (haber) firmado antes de la reunión.","type":"mc","options":["hubieran","hubiesen","habían","habrán"],"answer":"hubieran"}
+          ]
+       },
+
+        {
+          "title": "Quiz B",
+          "level": 10,
+          "questions": [
+            {"q":"Traduce: 'If only they had acted sooner, the outcome might have changed'","type":"text","answer":"Si tan solo hubieran actuado antes, el resultado podría haber cambiado"},
+            {"q":"Elige: ¿Qué matiz aporta 'aun cuando' en textos formales?","type":"mc","options":["concesión hipotética o real según contexto","causa","finalidad","tiempo"],"answer":"concesión hipotética o real según contexto"},
+            {"q":"Traduce: 'He spoke as if he had authored the work'","type":"text","answer":"Habló como si hubiera sido el autor de la obra"},
+            {"q":"Elige: No es que yo no ___ (apoyar), es que no tengo información.","type":"mc","options":["apoye","apoyo","apoyé","apoyaré"],"answer":"apoye"},
+            {"q":"Traduce: 'They must have misinterpreted the data'","type":"text","answer":"Deben haber interpretado mal los datos"},
+            {"q":"Elige: ¿Qué conjunción introduce una consecuencia lógica en textos académicos?","type":"mc","options":["por consiguiente","aunque","si","cuando"],"answer":"por consiguiente"},
+            {"q":"Traduce: 'I would rather you had consulted me first'","type":"text","answer":"Preferiría que me hubieras consultado primero"},
+            {"q":"Elige: ¿Qué pronombre relativo expresa posesión en registro culto?","type":"mc","options":["cuyo","que","quien","el que"],"answer":"cuyo"},
+            {"q":"Traduce: 'They had been analyzing the results for months'","type":"text","answer":"Habían estado analizando los resultados durante meses"},
+            {"q":"Elige: No existe nadie que ___ (poder) resolver este problema sin experiencia previa.","type":"mc","options":["pueda","puede","pudo","podrá"],"answer":"pueda"}
+          ]
+        },
+        {
+          "title": "Quiz C",
+          "level": 10,
+          "questions": [
+            {"q":"Traduce: 'Had circumstances been different, we would have chosen another path'","type":"text","answer":"Si las circunstancias hubieran sido diferentes, habríamos elegido otro camino"},
+            {"q":"Elige: ¿Qué matiz aporta 'ni siquiera' en registro enfático?","type":"mc","options":["refuerza la negación absoluta","indica duda","marca tiempo","marca cantidad"],"answer":"refuerza la negación absoluta"},
+            {"q":"Traduce: 'He maintained that they had acted in good faith'","type":"text","answer":"Sostuvo que habían actuado de buena fe"},
+            {"q":"Elige: Aunque él ___ (decir) lo contrario, la evidencia es clara.","type":"mc","options":["dijera","dice","dijo","dirá"],"answer":"dijera"},
+            {"q":"Traduce: 'I would have preferred a different outcome'","type":"text","answer":"Habría preferido un resultado diferente"},
+            {"q":"Elige: ¿Qué estructura expresa una hipótesis remota en estilo formal?","type":"mc","options":["si + pluscuamperfecto de subjuntivo + condicional perfecto","si + presente + futuro","cuando + indicativo","aunque + subjuntivo"],"answer":"si + pluscuamperfecto de subjuntivo + condicional perfecto"},
+            {"q":"Traduce: 'They had been coordinating efforts across departments'","type":"text","answer":"Habían estado coordinando esfuerzos entre departamentos"},
+            {"q":"Elige: ¿Qué pronombre relativo es preferible tras preposición en registro formal?","type":"mc","options":["el cual","que","quien","cuyo"],"answer":"el cual"},
+            {"q":"Traduce: 'I doubt they will reach a consensus'","type":"text","answer":"Dudo que lleguen a un consenso"},
+            {"q":"Elige: Era imprescindible que todos los participantes ___ (haber) leído el informe.","type":"mc","options":["hubieran","hubiesen","habían","habrán"],"answer":"hubieran"}
+          ]
+        }
+      ]
+    }
+  ]
+}
