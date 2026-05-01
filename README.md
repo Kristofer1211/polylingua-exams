@@ -1,0 +1,2 @@
+Polylingua Exams is a lightweight, browser‑based quiz system for practicing vocabulary and concepts across multiple languages and difficulty levels. It loads quizzes from local JSON files, supports multiple question types, and includes a clean interface with smooth transitions and theme support.
+The project also features a Firebase‑powered leaderboard so users can compare scores across sessions and devices. All logic runs client‑side, making the app fast, portable, and easy to host on any static site platform.
