@@ -202,10 +202,8 @@ function updateDotIndicators(currentIndex) {
 function updateHeader(){
   currentIndexEl.textContent = currentIndex + 1;
   totalQuestionsEl.textContent = totalQuestions;
-  scoreMini.textContent = `Score: ${score}`;
   updateDotIndicators(currentIndex);
   const acc = totalQuestions ? Math.round((score/totalQuestions)*100) : 0;
-  accuracyMini.textContent = `Accuracy: ${acc}%`;
   const filled = Math.round(((answers.filter(a=>a && String(a).trim()!=='').length) / totalQuestions) * 100);
   //progressBar.style.width = `${filled}%`;
 }
